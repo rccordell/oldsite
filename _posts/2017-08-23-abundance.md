@@ -21,10 +21,10 @@ Let's start with kudzu. Growing up in the American south, I was taught to fear t
 What's more, those areas of coverage are unevenly distributed, found primarily along the otherwise sparsely-vegetated sides of roads and railways.
 
 > The hype didn’t come out of nowhere. Kudzu has appeared larger than life because it’s most aggressive when planted along road cuts and railroad embankments—habitats that became front and center in the age of the automobile. As trees grew in the cleared lands near roadsides, kudzu rose with them. It appeared not to stop because there were no grazers to eat it back. But, in fact, it rarely penetrates deeply into a forest; it climbs well only in sunny areas on the forest edge and suffers in shade.
-&gt;
-&gt;Still, along Southern roads, the blankets of untouched kudzu create famous spectacles. Bored children traveling rural highways insist their parents wake them when they near the green kudzu monsters stalking the roadside…It was an invasive that grew best in the landscape modern Southerners were most familiar with—the roadsides framed in their car windows. It was conspicuous even at 65 miles per hour, reducing complex and indecipherable landscape details to one seemingly coherent mass. And because it looked as if it covered everything in sight, few people realized that the vine often fizzled out just behind that roadside screen of green.
-&gt;
-&gt;Bill Finch, [“The True Story of Kudzu, the Vine That Never Truly Ate the South”](http://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/), Smithsonian Magazine (2015)
+>
+> Still, along Southern roads, the blankets of untouched kudzu create famous spectacles. Bored children traveling rural highways insist their parents wake them when they near the green kudzu monsters stalking the roadside…It was an invasive that grew best in the landscape modern Southerners were most familiar with—the roadsides framed in their car windows. It was conspicuous even at 65 miles per hour, reducing complex and indecipherable landscape details to one seemingly coherent mass. And because it looked as if it covered everything in sight, few people realized that the vine often fizzled out just behind that roadside screen of green.
+>
+> Bill Finch, [“The True Story of Kudzu, the Vine That Never Truly Ate the South”](http://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/), Smithsonian Magazine (2015)
 
 In other words, kudzu has thrived in precisely the environments it was originally planted to shore up and in precisely the places people in an increasingly-car-dependent culture would see most frequently. Kudzu became such a source of anxiety because its success dovetailed almost precisely with people's shifting centers of attention due to changing consumer technologies—because its visibility outran its actual role in the ecosystem.
 
