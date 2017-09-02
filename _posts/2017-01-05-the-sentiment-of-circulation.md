@@ -20,7 +20,7 @@ Let's begin with a short video, an advertisement for the Polish online auction w
 
 I came across this video in the Facebook feed of a friend who regularly posts a "Weepy of the Day." As she wrote in a message (in which she also gave her permission for me to show her feed in this presentation), "some are happy weepies and some are sad," but all are expected to elicit tears. This video elicits tears of surprise, as we suddenly understand the man's tenacious commitment to language learning, as well as recognition of the deep love of parents and grandparents that subordinates the self to the beloved child. I suspect viewers' precise emotions differ based on their ages and life experiences, but overall the video provokes strong reactions and, if the comments on YouTube and in my friends' feeds are to be believed, almost universally tears.
 
-![The same ad as a &quot;Weepy of the Day&quot; on the Facebook feed of my friend, Jennifer Seidel.](/img/Screen-Shot-2016-12-29-at-10.09.25-PM-305-278x300.png)
+![The same ad as a &quot;Weepy of the Day&quot; on the Facebook feed of my friend, Jennifer Seidel.](/img/Screen-Shot-2016-12-29-at-10.09.25-PM-305.png)
   
 *The same ad as a &quot;Weepy of the Day&quot; on the Facebook feed of my friend, Jennifer Seidel.*
 
@@ -38,7 +38,7 @@ As a text, videos like this one are difficult for literary scholars because, to 
 
 Certainly YouTube viewers are not the first to share or weep over a swain's clever wooing. Clever, "too good to be true" vignettes were prevalent in the nineteenth-century newspaper exchanges system. In the [Viral Texts Project at Northeastern University](http://viraltexts.org) we are using computational methods to surface "viral" texts of all kinds from the newspapers of the period.
 
-![Text of &quot;Religious Courtship&quot; from the &lt;em&gt;Piney Woods Planter&lt;/em&gt; of 20 April 1839](/img/ReligiousCourtship.jpg)
+![Text of &quot;Religious Courtship&quot; from the &lt;em&gt;Piney Woods Planter&lt;/em&gt; of 20 April 1839](/img/ReligiousCourtship.jpg =400x)
   
 *Text of &quot;Religious Courtship&quot; from the Piney Woods Planter of 20 April 1839*
 
