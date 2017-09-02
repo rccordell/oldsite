@@ -1,7 +1,6 @@
 ---
-layout: post
-title: "Teaching"
-author: "Ryan Cordell"
+layout: page
+title: "My Teaching"
 permalink: /teaching/
 ---
 

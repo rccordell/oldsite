@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title: "About"
-author: "Ryan Cordell"
 permalink: /about/
 ---
 
