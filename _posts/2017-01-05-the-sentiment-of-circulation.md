@@ -38,7 +38,7 @@ As a text, videos like this one are difficult for literary scholars because, to 
 
 Certainly YouTube viewers are not the first to share or weep over a swain's clever wooing. Clever, "too good to be true" vignettes were prevalent in the nineteenth-century newspaper exchanges system. In the [Viral Texts Project at Northeastern University](http://viraltexts.org) we are using computational methods to surface "viral" texts of all kinds from the newspapers of the period.
 
-![Text of &quot;Religious Courtship&quot; from the &lt;em&gt;Piney Woods Planter&lt;/em&gt; of 20 April 1839](/img/ReligiousCourtship.jpg =400px)
+<div width = 50%>![Text of &quot;Religious Courtship&quot; from the &lt;em&gt;Piney Woods Planter&lt;/em&gt; of 20 April 1839](/img/ReligiousCourtship.jpg)</div>
   
 *Text of &quot;Religious Courtship&quot; from the Piney Woods Planter of 20 April 1839*
 
