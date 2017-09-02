@@ -38,7 +38,7 @@ As a text, videos like this one are difficult for literary scholars because, to 
 
 Certainly YouTube viewers are not the first to share or weep over a swain's clever wooing. Clever, "too good to be true" vignettes were prevalent in the nineteenth-century newspaper exchanges system. In the [Viral Texts Project at Northeastern University](http://viraltexts.org) we are using computational methods to surface "viral" texts of all kinds from the newspapers of the period.
 
-![Text of &quot;Religious Courtship&quot; from the &lt;em&gt;Piney Woods Planter&lt;/em&gt; of 20 April 1839](/img/ReligiousCourtship.jpg)
+<a href="/img/ReligiousCourtship.jpg" target="_blank"><img src="/img/ReligiousCourtship.jpg" alt="Text of &quot;Religious Courtship&quot; from the &lt;em&gt;Piney Woods Planter&lt;/em&gt; of 20 April 1839" width="400" /></a>
   
 *Text of &quot;Religious Courtship&quot; from the Piney Woods Planter of 20 April 1839*
 
@@ -48,13 +48,13 @@ The sentiment of such pieces is perhaps muted, appearing "not so much a genre as
 
 Perhaps the most iconic scene of nineteenth-century sentimentalism is the death of little Eva in *Uncle Tom's Cabin*, in which a the angelic child "dies well": which is to say peacefully and piously, while instructing those around her through her example. Eva accepts her fate joyfully, and thus becomes a typological Christian to her family, her family's enslaved servants, and the novel's readers. In allowing "a little child to lead them," Stowe both enacts a powerful trope of nineteenth century evangelical faith and of sentimental discourse. While less individually famous, the trope of the angelic child (or wife) instructing through death pervades the period's literature. In temperance tracts, plays, and novels, for instance, it is typically the death of a long suffering wife or daughter that finally pushes the tale's drunkard to confront his failures and turn toward reform.[^Cordell] Just as the #AllTheFeels hashtag immediately connects an individual expression of emotion to a larger stream of sentimental discourse, the trope of the dying child immediately connects any single example of nineteenth-century sentimental writing to the network of sentimentalism.
 
-![&quot;Tired Mothers&quot; in the Vermont Phœnix of 6 September 1872](/img/TiredMothers.jpg)
+<a href="/img/TiredMothers.jpg" target="_blank"><img src="/img/TiredMothers.jpg" alt="&quot;Tired Mothers&quot; in the Vermont Phœnix of 6 September 1872" width="400" /></a>
   
 *&quot;Tired Mothers&quot; in the Vermont Phœnix of 6 September 1872*
 
 The reprinted texts of the nineteenth century newspaper—poetry, especially—are preoccupied with mortality, and in particular the mortality of children. In the poem "Tired Mothers," for instance, a bereaved mother urges others to recognize the "blessedness" of even "dull" and "thankless" moments with their children, which she longs for now that "My singing birdling from its nest has flown / The little boy I used to kiss is dead!" (you can read one of at least 275 identified nineteenth-century reprintings of "Tired Mothers" [in the *Vermont Phœnix* of 6 September 1872](http://chroniclingamerica.loc.gov/lccn/sn98060050/1872-09-06/ed-1/seq-4/)).
 
-!["Our Little Boy Blue" in the <a href="http://chroniclingamerica.loc.gov/lccn/sn90059522/1888-04-22/ed-1/seq-14/" target="_blank" rel="noopener"><em>St. Paul Daily Globe</em> (22 April 1888)](/img/OurLittleBoyBlue.jpg)
+<a href="/img/OurLittleBoyBlue.jpg" target="_blank"><img src="/img/OurLittleBoyBlue.jpg" alt="Our Little Boy Blue in the <a href="http://chroniclingamerica.loc.gov/lccn/sn90059522/1888-04-22/ed-1/seq-14/" target="_blank" rel="noopener"><em>St. Paul Daily Globe</em> (22 April 1888)" width="400" /></a>
   
 *"Our Little Boy Blue" in the <a href="http://chroniclingamerica.loc.gov/lccn/sn90059522/1888-04-22/ed-1/seq-14/" target="_blank" rel="noopener"><em>St. Paul Daily Globe</em> (22 April 1888)*
 
@@ -85,7 +85,7 @@ We can identify a similar sentimental impulse in a project like [*Humans of New 
 
 Most readers of HONY are (relatively) young, and so posts like [this one about a man losing his wife to dementia](http://www.humansofnewyork.com/post/153490207221/33-i-miss-that-we-cant-go-out-and-dance-or) seek to bridge generational divides through sentiment. To return to Samuels' definition of sentimentalism, this text clearly becomes a "discursive model…of affect and identification that effect[s] connections" across ages rather than other markers of difference. Here we might identify another meditation on loss, in which the sentimental inspiration comes not from the person dying, but instead from the long suffering husband left behind. Here again is an aspirational example, of fidelity and love, that sets readers' own relationships in relief.
 
-!["A Dying Wife to Her Husband" in the <a href="http://chroniclingamerica.loc.gov/lccn/sn85026945/1851-04-26/ed-1/seq-1/" target="_blank" rel="noopener"><em>Abbeville Banner</em> (26 April 1851)](/img/DyingWifeToHerHusband.jpg)
+<a href="/img/DyingWifeToHerHusband.jpg" target="_blank"><img src="/img/DyingWifeToHerHusband.jpg" alt="A Dying Wife to Her Husband in the <a href="http://chroniclingamerica.loc.gov/lccn/sn85026945/1851-04-26/ed-1/seq-1/" target="_blank" rel="noopener"><em>St. Paul Daily Globe</em> (22 April 1888)" width="400" /></a>
   
 *"A Dying Wife to Her Husband" in the <a href="http://chroniclingamerica.loc.gov/lccn/sn85026945/1851-04-26/ed-1/seq-1/" target="_blank" rel="noopener"><em>Abbeville Banner</em> (26 April 1851)*
 
