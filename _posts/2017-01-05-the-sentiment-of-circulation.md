@@ -20,7 +20,7 @@ Let's begin with a short video, an advertisement for the Polish online auction w
 
 I came across this video in the Facebook feed of a friend who regularly posts a "Weepy of the Day." As she wrote in a message (in which she also gave her permission for me to show her feed in this presentation), "some are happy weepies and some are sad," but all are expected to elicit tears. This video elicits tears of surprise, as we suddenly understand the man's tenacious commitment to language learning, as well as recognition of the deep love of parents and grandparents that subordinates the self to the beloved child. I suspect viewers' precise emotions differ based on their ages and life experiences, but overall the video provokes strong reactions and, if the comments on YouTube and in my friends' feeds are to be believed, almost universally tears.
 
-![The same ad as a &quot;Weepy of the Day&quot; on the Facebook feed of my friend, Jennifer Seidel.](/img/Screen-Shot-2016-12-29-at-10.09.25-PM-305.png)
+<a href="/img/Screen-Shot-2016-12-29-at-10.09.25-PM-305.png" target="_blank"><img src="/img/Screen-Shot-2016-12-29-at-10.09.25-PM-305.png" alt="The same ad as a &quot;Weepy of the Day&quot; on the Facebook feed of my friend, Jennifer Seidel." width="400" /></a>
   
 *The same ad as a &quot;Weepy of the Day&quot; on the Facebook feed of my friend, Jennifer Seidel.*
 
