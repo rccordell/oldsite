@@ -54,7 +54,7 @@ Perhaps the most iconic scene of nineteenth-century sentimentalism is the death 
 
 The reprinted texts of the nineteenth century newspaper—poetry, especially—are preoccupied with mortality, and in particular the mortality of children. In the poem "Tired Mothers," for instance, a bereaved mother urges others to recognize the "blessedness" of even "dull" and "thankless" moments with their children, which she longs for now that "My singing birdling from its nest has flown / The little boy I used to kiss is dead!" (you can read one of at least 275 identified nineteenth-century reprintings of "Tired Mothers" [in the *Vermont Phœnix* of 6 September 1872](http://chroniclingamerica.loc.gov/lccn/sn98060050/1872-09-06/ed-1/seq-4/)).
 
-<a href="/img/OurLittleBoyBlue.jpg" target="_blank"><img src="/img/OurLittleBoyBlue.jpg" alt="Our Little Boy Blue in the <a href="http://chroniclingamerica.loc.gov/lccn/sn90059522/1888-04-22/ed-1/seq-14/" target="_blank" rel="noopener"><em>St. Paul Daily Globe</em> (22 April 1888)" width="400" /></a>
+<a href="/img/OurLittleBoyBlue.jpg" target="_blank"><img src="/img/OurLittleBoyBlue.jpg" alt="Our Little Boy Blue in the <em>St. Paul Daily Globe</em> (22 April 1888)" width="400" /></a>
   
 *"Our Little Boy Blue" in the <a href="http://chroniclingamerica.loc.gov/lccn/sn90059522/1888-04-22/ed-1/seq-14/" target="_blank" rel="noopener"><em>St. Paul Daily Globe</em> (22 April 1888)*
 
@@ -85,7 +85,7 @@ We can identify a similar sentimental impulse in a project like [*Humans of New 
 
 Most readers of HONY are (relatively) young, and so posts like [this one about a man losing his wife to dementia](http://www.humansofnewyork.com/post/153490207221/33-i-miss-that-we-cant-go-out-and-dance-or) seek to bridge generational divides through sentiment. To return to Samuels' definition of sentimentalism, this text clearly becomes a "discursive model…of affect and identification that effect[s] connections" across ages rather than other markers of difference. Here we might identify another meditation on loss, in which the sentimental inspiration comes not from the person dying, but instead from the long suffering husband left behind. Here again is an aspirational example, of fidelity and love, that sets readers' own relationships in relief.
 
-<a href="/img/DyingWifeToHerHusband.jpg" target="_blank"><img src="/img/DyingWifeToHerHusband.jpg" alt="A Dying Wife to Her Husband in the <a href="http://chroniclingamerica.loc.gov/lccn/sn85026945/1851-04-26/ed-1/seq-1/" target="_blank" rel="noopener"><em>St. Paul Daily Globe</em> (22 April 1888)" width="400" /></a>
+<a href="/img/DyingWifeToHerHusband.jpg" target="_blank"><img src="/img/DyingWifeToHerHusband.jpg" alt="A Dying Wife to Her Husband in the <em>Abbeville Banner</em> (26 April 1851)" width="400" /></a>
   
 *"A Dying Wife to Her Husband" in the <a href="http://chroniclingamerica.loc.gov/lccn/sn85026945/1851-04-26/ed-1/seq-1/" target="_blank" rel="noopener"><em>Abbeville Banner</em> (26 April 1851)*
 
