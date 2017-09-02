@@ -22,19 +22,19 @@ To which my first instinct is exasperation. Of <em>course</em> we're missing lot
 
 But those questions do nag at me. In particular I've been thinking about how we might represent the "known unknowns" of our work,<sup><a id="ref1" href="#fn1">1</a></sup> particularly in visualizations. I really started picking at this problem after discussing the <em>Viral Texts</em> work with a group of librarians. I was showing them this map,
 
-<img src="/img/ChronAm-network-map.png" alt="" width="100%" /></a>
+<img src="/img/ChronAm-network-map.png" alt="" width="100%" />
 
 which transposes a network graph of our data onto a map which merges census data from 1840 with the <a href="http://publications.newberry.org/ahcbp/">Newberry Library's Atlas of Historical County Boundaries</a>. One of the librarians was from New Hampshire, and she told me she was initially dismayed that there were no influential newspapers from New Hampshire, until she realized that our data doesn't include any newspapers from New Hampshire, because that state has not yet contributed to <em>Chronicling America</em>. She suggested our maps would be vastly improved if we somehow indicated such gaps visually, rather than simply talking about them.
 
 In the weeks since then, I've been experimenting with how to visualize those absences without overwhelming a map with symbology. The simplest solution, as almost always, appears to be the best.
 
-<img src="/img/viraltext-CA.png" alt="" width="100%" /></a>
+<img src="/img/viraltext-CA.png" alt="" width="100%" />
 
 In this map I've visualized the 50 reprintings we have identified of one text, a religious reflection by Nashville editor George D. Prentice, often titled "Eloquent Extract," between the years 1836-1860. The county boundaries are historical, drawn from the Newberry Atlas, but I've overlain modern state boundaries with shading to indicate whether we have significant, scant, or no open-access historical newspaper data from those states. This is still a blunt instrument. Entire states are shaded, even when our coverage is geographically concentrated. For New York, for instance, we have data from a few NYC newspapers and magazines, but nothing yet from the north or west of the state.
 
 Nevertheless, I'm happy with these maps as helping me begin to think through how I can represent the absences of the digital archives from which our project draws. And indeed, I've begun thinking about how such maps might help us agitate—in admittedly small ways—for increased digitization and data-level access for humanities projects.
 
-<img src="/img/ViralText-FP.png" alt="" width="100%" /></a>
+<img src="/img/ViralText-FP.png" alt="" width="100%" />
 
 
 This map, for instance, visualizes the <strong>130 reprints</strong> of that same "Eloquent Extract" which we were able to identify searching across <em>Chronicling America</em> and a range of commercial periodicals archives (and huge thanks to project RA <a href="https://twitter.com/Peter_Roby">Peter Roby</a> for keyword searching many archives in search of such examples). For me this map is both exciting and dispiriting, pointing to what could be possible for large-scale text mining projects while simultaneously emphasizing just how much we are missing when forced to work only with openly-available data. If we had access to a larger digitized cultural record we could do so much more. A part of me hopes that if scholars, librarians, and others see such maps they will advocate for increased access to historical materials in open collections. As I said in my talk at the recent C19 conference:
