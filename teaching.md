@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "My Teaching"
+author: "Ryan Cordell"
 permalink: /teaching/
 ---
 
