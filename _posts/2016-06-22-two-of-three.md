@@ -15,14 +15,16 @@ categories:
   - Viral Texts
 ---
 I wrote the following as part of my preparation for next week's second meeting of the <a href="http://nationalhumanitiescenter.org/digital-humanities/">NHC Summer Institute in Digital Textual Studies</a> next week. The post assumes a modest working understanding of network graphs and their terminology. For a primer on humanities network analysis, see the links for <a href="http://ryancordell.org/teaching/network-analysis-workshop/">my network analysis workshop</a> or, more specifically, see Scott Weingart's ongoing series <a href="http://scottbot.net/tag/networks-demystified/">Demystifying Networks</a>, beginning, appropriately enough with his <a href="http://scottbot.net/lets-talk-about-networks/">introduction</a>, his <a href="http://scottbot.net/networks-demystified-2-degree/">second post about degree</a>, and possibly his <a href="http://scottbot.net/networks-demystified-5-communities-pagerank-and-sampling-caveats/">post on communities</a>.
+
 <h2 id="introduction">Introduction</h2>
+
 In <a href="http://ryancordell.org/research/reprinting-circulation-and-the-network-author-in-antebellum-newspapers/">previous work in <em>American Literary History</em></a>, I argued that reprinted nineteenth-century newspaper selections should be considered as authored by the network of periodicals exchanges. Such texts were assemblages, defined by circulation and mutability, that cannot cohere around a single, stable author. As part of this argument, I demonstrated how social network analysis (SNA) methods might employ large-scale data about reprinting to illuminate lines of influence among newspapers during the period. In that early network modeling, I represented individual newspapers from our reprinting data—at the time drawn primarily from the Library of Congress’ Chronicling America collection—as nodes, connected by edges that represented texts printed in common between papers. Those edges were weighted by frequency of shared reprints. The working assumptions behind those models were these: 1.) the fact that two newspapers reprint this or that text in common says very little about their relationship, or lack thereof, during the period and 2.) that when two newspaper printed hundreds, thousands, or even tens of thousands of texts in common, this fact is a strong signal of a <em>potential</em> relationship between them.
 
-[caption id="attachment_1458" align="aligncenter" width="300"]<a href="http://ryancordell.org/the-stuff/uploads/2016/06/Screen-Shot-2016-04-19-at-12.50.49-PM-980.png"><img class="wp-image-1458 size-medium" src="http://ryancordell.org/the-stuff/uploads/2016/06/Screen-Shot-2016-04-19-at-12.50.49-PM-980-300x150.png" width="300" height="150" /></a> A selection from a single cluster in the Viral Data. Each line represents a specific reprint from the larger cluster, which is identified by the ID in the first column. You can browse the <a href="https://www.dropbox.com/sh/g5k90vr9le3gpul/AAAXiYaPCorItIl3CeLP_Wf0a?dl=0" target="_blank">cluster data I used for these experiments</a>. These are themselves experimental clusters using a new version of the reprint-detection algorithm, and are not yet suitable for formal publication.[/caption]
+<a href="/img/Screen-Shot-2016-04-19-at-12.50.49-PM-980.png" target="_blank"><img src="/img/Screen-Shot-2016-04-19-at-12.50.49-PM-980.png" alt="A selection from a single cluster in the Viral Data. Each line represents a specific reprint from the larger cluster, which is identified by the ID in the first column. You can browse the cluster data I used for these experiments. These are themselves experimental clusters using a new version of the reprint-detection algorithm, and are not yet suitable for formal publication." width="400" /></a>
+  
+*A selection from a single cluster in the Viral Data. Each line represents a specific reprint from the larger cluster, which is identified by the ID in the first column. You can browse the <a href="https://www.dropbox.com/sh/g5k90vr9le3gpul/AAAXiYaPCorItIl3CeLP_Wf0a?dl=0" target="_blank">cluster data I used for these experiments</a>. These are themselves experimental clusters using a new version of the reprint-detection algorithm, and are not yet suitable for formal publication.*
 
-Our data about reprinting in the <a href="http://viraltexts.org">Viral Texts Project</a> is organized around "clusters": these are, essentially, enumerative bibliographies of particular texts that circulated in nineteenth-century newspapers, derived computationally through a reprint detection algorithm that we describe more fully in previous publications.<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> From these chronologically-ordered lists of witnesses, we derive network structures by tallying how often publications appear in the same clusters. When two publications appear together in a particular cluster, they are considered linked, with an edge of weight 1. Each subsequent time those same publications appear together in other clusters, the weight of their edge increases by 1; ten shared reprints results in a weight of 10, one hundred shared reprints in a weight of 100. Thus the final network data shows strong links between publications that often print the same texts and weaker links between publications that occasionally print the same texts.<!--more-->
-
-
+Our data about reprinting in the <a href="http://viraltexts.org">Viral Texts Project</a> is organized around "clusters": these are, essentially, enumerative bibliographies of particular texts that circulated in nineteenth-century newspapers, derived computationally through a reprint detection algorithm that we describe more fully in previous publications.<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> From these chronologically-ordered lists of witnesses, we derive network structures by tallying how often publications appear in the same clusters. When two publications appear together in a particular cluster, they are considered linked, with an edge of weight 1. Each subsequent time those same publications appear together in other clusters, the weight of their edge increases by 1; ten shared reprints results in a weight of 10, one hundred shared reprints in a weight of 100. Thus the final network data shows strong links between publications that often print the same texts and weaker links between publications that occasionally print the same texts.
 
 This method works reasonably well for ascertaining <em>potential</em> lines of influence among nineteenth-century periodicals. That two newspapers happen to share a few texts in common says very little: the mechanics of nineteenth-century reprinting were dynamic and varied enough that nearly any two newspapers were bound to occasionally print the same texts, whether or not those particular newspapers had any direct or near-removed relationship. The general network model we have used to this point does assume, however, that when two newspapers share hundreds, thousands, or even tens of thousands of texts in common, these alignments can be strong indicators that allow us to hypothesize a close relationship between them. However, we cannot conclude <em>direct</em> influence from this network model, if only because our population of newspapers is incomplete, even fragmentary: limited to those newspapers which have been digitized and whose data we can access. Our text mining draws on several thousands of newspapers, but these represent a small fraction of the papers that would have been extant in the nineteenth century, which means there are <em>potentially far more nodes missing</em> from our data than nodes present. Thus we cannot draw firm conclusions directly from our network graphs; instead, we treat them as indicators which can direct more focused research. When we see a strong link between two papers in the model, this points us back to the archive to discern what the nature of that link might be: are these papers politically affiliated? Geographically close? Were their editors friends, or relatives?
 
@@ -39,7 +41,9 @@ This much expanded corpus results in much expanded datasets of reprint clusters:
 The experiments I describe below draw on the subset of 59,159 clusters that include <em>Scientific American</em>. Practically, this is a <a href="http://ryancordell.org/research/scale-as-deformance/">manageable, corpus-scale dataset</a> that allows me to test ideas relatively quickly: refine, then iterate. Perhaps more importantly, however, this dataset creates ego networks, which is the term for networks focused on a particular node. With ego network data we can expect one constant across the graphs we generate: given the exclusive focus on clusters that include <em>Scientific American</em>, we can expect <em>Scientific American</em> to be the node with the highest degree and centrality in each network graph, however we modify our calculations of weight between nodes. Though <em>Scientific American</em>'s precise measurements will change, as we adjust the edge weights between nodes to account for lag, textual similarity, or geographic distance, the network statistics derived for other nodes in the network will change more drastically, leading to three distinct graphs that can be usefully compared and contrasted.
 <h2 id="from-clusters-to-edges">From Clusters to Edges</h2>
 To move from cluster data—essentially computationally-derived enumerative bibliographies, in which the details of each observed reprinted are listed on a separate line—to network edge data—in which each line lists a potential alignment of newspaper pairs, based on a shared text—requires some processing, which I typically do using the R programming language. The first few steps of this process are the same for two of the three investigations (and mostly the same, save one additional step described below, for the third):
-<pre><code>library(dplyr)
+
+```R
+library(dplyr)
 #import a folder of CSV files into one dataframe
 files &lt;- dir("./")
 SciAm &lt;- do.call(rbind,lapply(files,read.csv))
@@ -52,7 +56,9 @@ SciAm$title[grepl("Scientific American", SciAm$title)] &lt;- "Scientific America
 SciAmSimple &lt;- select(SciAm, cluster, date, title, series, text)
 SciAmPairs &lt;- full_join(SciAmSimple, SciAmSimple, by = "cluster")
 #select only edges moving between an older and newer reprinting
-SciAmDirected &lt;- filter(SciAmPairs, date.x &lt; date.y)</code></pre>
+SciAmDirected &lt;- filter(SciAmPairs, date.x &lt; date.y)
+```
+
 I am still transitioning to using R, and no doubt someone more experienced with the language could condense these operations to 1-2 lines. However, these modest steps accomplish quite a lot. First, our reprint-detection algorithm does not export one, single CSV (Comma Separated Value) file of cluster data, partly because it would be such a large file it would be difficult to work with. In this case, however, I have already filtered my data once, so that it only comprises clusters that include <em>Scientific American</em>. These clusters can be read into R as a single data frame. The first few lines of this code, then, cycle through the folder containing the cluster CSVs and read them into a single data frame. The next few lines clean up the data a bit, as you can read in the comments in the code block above.
 
 The next three steps move us from essentially bibliographic data—that is, cluster data organized as separate lines for each observed reprint—toward network data—that is, data organized around relationships. To start this process, we simplify the larger data frame to just those columns necessary either establishing which reprints indicate potential network relations or which allow us to nuance those relationships. These are, briefly:
@@ -63,49 +69,60 @@ The next three steps move us from essentially bibliographic data—that is, clus
  	<li>series: a unique identifier for each publication in our data. In most cases these are drawn from the metadata provided by the archive from which the publication was accessed, but in a few cases we had to create identifiers for publications in archives without clear ids in the metadata. We will use these ideas to join our reprint data with a gazetteer created by Viral Texts RA Thanasis Kinias, in order to determine the geographic location of each reprint.</li>
  	<li>text: the OCR text data of each identified reprint. We will use this to determine the edit distance between pairs of reprinted texts.</li>
 </ul>
-[caption id="attachment_1457" align="aligncenter" width="300"]<a href="http://ryancordell.org/the-stuff/uploads/2016/06/Screen-Shot-2016-06-22-at-12.38.26-AM.png"><img class="wp-image-1457 size-medium" src="http://ryancordell.org/the-stuff/uploads/2016/06/Screen-Shot-2016-06-22-at-12.38.26-AM-300x61.png" alt="Image of pairwise data, which will become the source and targets for our network edge table. Each line represents one pair of shared texts between publications." width="300" height="61" /></a> A small example of pairwise data generated by the code above. Each line represents one pair of shared texts between publications. With a few column name changes, such reprinting data becomes network data, with source and target nodes.[/caption]
+
+<a href="/img/Screen-Shot-2016-06-22-at-12.38.26-AM.png" target="_blank"><img src="/img/Screen-Shot-2016-06-22-at-12.38.26-AM.png" alt="Image of pairwise data, which will become the source and targets for our network edge table. Each line represents one pair of shared texts between publications." width="400" /></a>
+  
+*A small example of pairwise data generated by the code above. Each line represents one pair of shared texts between publications. With a few column name changes, such reprinting data becomes network data, with source and target nodes.*
 
 The <code>full_join</code> in our code joins our cluster data to itself using the <code>cluster</code> column, which means that it creates a data frame with one line for every potential pair of reprints within each cluster: in other words, we're creating one line for each potential edge in our network. These lines will include all the columns in the data set for each of the two reprints it now represents; we have created a <em>wide</em> representation of our clusters then, though this process dramatically expands the data frame's width and length. A cluster of only 5 reprints, for instance, can be paired in 20 unique ways (1-2, 1-3, 1-4, 1-5, 2-1, 2-3, 2-4, 2-5, 3-1, 3-2, 3-4, 3-5, 4-1, 4-2, 4-3, 4-5, 5-1, 5-2, 5-3, 5-4) and many of our clusters are significantly larger than 5. The final step in the code above, however, helps pare down the data set a bit and is rooted in the historical phenomenon we are modeling: exchanges among nineteenth century newspapers. If our model must assume that a shared text between two newspapers is a signal of potential influence, however small, we can also assume such influence only runs forward in time. That is, we likely should not assume that the <em>Daily Dispatch</em> printing a text before the <em>Sunbury American</em> indicates any influence, however small, from the <em>American</em> to the <em>Dispatch</em>, but we might assume the reverse, particularly if <em>Dispatch</em> —&gt; <em>American</em> proves to be a trend, as we will investigate below. The final line of code above, however, filters the data to only those lines in which the date of the first reprint is less than—or, earlier in time than—the date of the second reprint.
 
 From here, we could easily use R to tally raw weight for each edge.
-<pre><code>SciAmEdges &lt;- SciAmDirected %&gt;% group_by(title.x,title.y) %&gt;%
-  summarize(weight = n())</code></pre>
+
+```R
+SciAmEdges &lt;- SciAmDirected %&gt;% group_by(title.x,title.y) %&gt;%
+  summarize(weight = n())
+```
+
 In short, we would combine each line that lists a given combination of two titles into a single line, tallying a new <code>weight</code> column that increases by 1 for each observation of that combination. So, if in our data frame above there are 42 instances in which the <em>Dispatch</em> printed a text that the <em>American</em> later reprinted, this would result in a single line in our new data frame:
-<table>
-<tbody>
-<tr>
-<th>Source</th>
-<th>Target</th>
-<th>Weight</th>
-</tr>
-<tr>
-<td>Daily Dispatch</td>
-<td>Sunbury American</td>
-<td>42</td>
-</tr>
-</tbody>
-</table>
+
+| Source | Target | Weight |
+| --- | --- | --- |
+| Daily Dispatch | Sunbury American | 42 | 
+
 These raw weights give us a baseline from which to test the different lenses I will describe below. One practical reason to strive for better optics, however, is that our data often results in the hairiest of "hairball" network graphs.
 
-[caption id="attachment_1464" align="aligncenter" width="800"]<img class="wp-image-1464 size-full" src="http://ryancordell.org/the-stuff/uploads/2016/06/Screen-Shot-2016-06-22-at-10.33.54-AM.png" width="800" height="497" /> An unfiltered detail of the <em>Scientific American</em> ego network graph. The density of edges makes it difficult to read: this is, in network parlance, a "hairball."[/caption]
+<img src="/img/Screen-Shot-2016-06-22-at-10.33.54-AM.png" alt="An unfiltered detail of the Scientific American ego network graph. The density of edges makes it difficult to read." />
+  
+*An unfiltered detail of the <em>Scientific American</em> ego network graph. The density of edges makes it difficult to read: this is, in network parlance, a "hairball."*
+
 
 Because our data is drawn from <em>found connections</em> between papers, our graphs tend to be quite densely connected, even more than I expected going into the Viral Texts Project. That is, I expected more distinct communities that shared texts which did not circulate more widely, while in contrast we are finding that reprinted texts quite often diffused across the exchange system.
 
 Indeed, though we can generate visual graphs in Gephi using our modified network outputs below, we will ultimately be most interested in the values for the weight as they are modified, and how those modified weights change the network statistics for our nodes. Which nodes appear to be most central (or have the highest degree, etc.) when we adjust our weights by time lag, and how do those compare with the nodes that appear to be most central when we adjust our weights by geographic distance, or the edit distance between the versions of the texts they published? Can we triangulate from these three models of our network to discern the links that truly seem indicative of historical connections rather than data artifacts?
+
 <h2 id="weighing-by-publication-lag">Weighing by Publication Lag</h2>
-[caption id="attachment_1461" align="aligncenter" width="237"]<a href="http://chroniclingamerica.loc.gov/lccn/sn85054702/1847-05-15/ed-1/seq-1/"><img class="size-medium wp-image-1461" src="http://ryancordell.org/the-stuff/uploads/2016/06/CuriousCalculation-237x300.jpg" alt="&quot;A Curious Calculation,&quot; as it appeared in the Sunbury American and Shamokin Journal (15 May 1847)." width="237" height="300" /></a> "A Curious Calculation," as it appeared in the <em>Sunbury American and Shamokin Journal</em> (15 May 1847).[/caption]
+
+<a href="/img/CuriousCalculation.jpg" target="_blank"><img src="/img/CuriousCalculation.jpg" alt="A Curious Calculation as it appeared in the Sunbury American and Shamokin Journal (15 May 1847)." width="400" /></a>
+  
+*"A Curious Calculation," as it appeared in the <em>Sunbury American and Shamokin Journal</em> (15 May 1847).*
 
 While texts circulated among newspapers over many years in the nineteenth-century—indeed, sometimes for decades—they were not typically reprinted steadily through the decades of their lives. Instead, we observe peaks of circulation, fallowness, and recirculation as texts moved in and out of the exchange network. Consider the following graph of cluster 5701252, a scientific-religious tidbit that tries to explain just how big a billion truly is: "For to count a billion, [Adam, having started when created] would require 9,512 years, 34 days, 5 hours, and 20 minutes." This piece was first printed in <em>Scientific American</em> on April 10, 1847 and printed in at least 175 other publications around the world through at least December 22, 1899. However, if we visualize those reprintings over time through a histogram, we can see the cycles of its publication over time: the largest following its initial publication, another around 1855, for example, and another (following a several years gap) around 1874.
 
-[caption id="attachment_1463" align="aligncenter" width="300"]<a href="http://ryancordell.org/the-stuff/uploads/2016/06/plot_zoom_png.png"><img class="size-medium wp-image-1463" src="http://ryancordell.org/the-stuff/uploads/2016/06/plot_zoom_png-300x192.png" alt="Reprints of Cluster 5701252, or &quot;A Curious Calculation,&quot; plotted over time. " width="300" height="192" /></a> Reprints of Cluster 5701252, or "A Curious Calculation," plotted over time.[/caption]
+<a href="/img/plot_zoom.png" target="_blank"><img src="/img/plot_zoom.png" alt="Reprints of Cluster 5701252, or “A Curious Calculation,” plotted over time." /></a>
+  
+*Reprints of Cluster 5701252, or “A Curious Calculation,” plotted over time.*
 
 This is a typical pattern for the reprints we have identified: cycles of attention and inattention as a given text moved through exchanges, was forgotten, and was then revived by an editor years later, to echo again through the exchanges, sometimes as if a new text altogether and sometimes with a memory of its earlier circulation. Ideally, we would want to account for these temporal clusterings in our network models, treating jointly reprinted texts nearby in time as stronger potential signals of connections among newspapers than texts reprinted at a long temporal distance. The latter <em>might yet</em> be signals of connection, but our understanding of nineteenth century exchange dynamics suggests it is less likely to be so than those shared texts nearer in time.
 
 In other words, we want to model the network to account for those likelihoods without entirely discounting connections that span larger time gaps. We should not discard edges with a long time lag, but we should treat them as less important individually (though they might yet be important in aggregate). To do this, we can use the following:
-<pre><code>SciAmDirected$lag &lt;- SciAmDirected$date.y - SciAmDirected$date.x
+
+```R
+SciAmDirected$lag &lt;- SciAmDirected$date.y - SciAmDirected$date.x
 SciAmDirected$lagWeight &lt;- 1 / as.numeric(SciAmDirected$lag)
 SciAmEdges &lt;- SciAmDirected %&gt;% group_by(title.x,title.y) %&gt;%
-  summarize(meanLag = mean(lag), Weight = sum(lagWeight), rawWeight = n())</code></pre>
+  summarize(meanLag = mean(lag), Weight = sum(lagWeight), rawWeight = n())
+```
+
 Here, rather than each shared reprint between two publications increasing the weight of their shared edge by 1, it increases by 1 divided by the lag—measured in days—between each text’s publication in its source and target papers. In other words, the longer the lag in any given pair, the smaller the weight increase for the overall connection. If two publications share a great many texts, even despite a large lag in most instances, the weight of their shared edge will still increase, and the signal of a potential connection will remain. However, it will increase less than it would were the same publications frequently reprinting texts in common near the same time. When we sum up all the edges to create this network model, we retain both a raw weight—the total number of shared reprints for any two publications—as well as a weight adjusted for lag. Looking at the strongest twenty edges as sorted by raw and lag-adjusted weights, we can see how this shifts our view of the network.
 
 As nodes in <a href="http//networks.viraltexts.org/SciAmLag">the network this process produces</a>, these publications will also have stronger calculations for network measures such as degree and centrality. When we factor in publication lag, we might note that publications in New York and New England occupy a good many of the top connections with the New York-based <em>Scientific American</em>: though not all, as the tantalizing (for different reasons) examples of the <em>Milwaukee Weekly Sentinel</em> and <em>Sydney Morning Herald</em> (Australia) show. In the latter case, we can see a stark difference between the raw weight (3967 shared texts in the data set) and the lag-adjusted weight (71.2152435), thanks to a mean lag of 815.18 days between texts being published in <em>Scientific American</em> and appearing in the <em>Sydney Morning Herald</em>. Nonetheless, these publications share so many texts that their connections bears out even when we adjust for lag, which to my mind is a strong indicator of a more than casual link between these two publications that demands further study.
@@ -159,7 +176,9 @@ When weighing by lag, the following newspapers have the highest <em>degree</em>,
 </tr>
 </tbody>
 </table>
+
 When sorted by <em>out degree</em>, the picture changes slightly. Out degree measures only outgoing links, which in this context might signal papers that were frequent sources, rather than receivers, of reprinted texts:
+
 <table>
 <tbody>
 <tr>
@@ -208,7 +227,9 @@ When sorted by <em>out degree</em>, the picture changes slightly. Out degree mea
 </tr>
 </tbody>
 </table>
+
 To cite one more metric, we might look at <em>betweenness centrality</em>, which measures how frequently a node appears on the shortest path between the other nodes in the network. The top nodes based on this measure are:
+
 <table>
 <tbody>
 <tr>
@@ -261,14 +282,22 @@ To cite one more metric, we might look at <em>betweenness centrality</em>, which
 </tr>
 </tbody>
 </table>
+
 Were this a full network analysis, we might dig further into these statistics to ascertain why these publications are so measured. We might investigate, for example, whether papers such as the <em>Sydney Morning Herald</em> or <em>Yorkville Enquirer</em> are hubs connecting Australian, US, and/or UK newspapers in our corpora, which might account for their high betweenness scores. For these preliminary experiments, though, we might instead ask how these measurements for a network privileging temporal lag compare with the same measurements for a network that privileges another factor, such as geographic distance.
 
-[caption id="attachment_1466" align="aligncenter" width="800"]<img class="size-full wp-image-1466" src="http://ryancordell.org/the-stuff/uploads/2016/06/SciAm-network-lag.jpg" alt="The Scientific American ego network, adjusted for lag, results in more separation and an easier-to-read visualization." width="800" height="771" /> The Scientific American ego network, adjusted for lag, results in more separation and an easier-to-read visualization.[/caption]
+<a href="/img/SciAm-network-lag.jpg" target="_blank"><img src="/img/SciAm-network-lag.jpg" alt="The Scientific American ego network, adjusted for lag, results in more separation and an easier-to-read visualization." width="400" /></a>
+  
+*The Scientific American ego network, adjusted for lag, results in more separation and an easier-to-read visualization.*
+
+
 <h2 id="weighing-by-geographical-distance">Weighing by Geographical Distance</h2>
+
 In some ways, geographic distance has not been as limiting a factor as I expected when we began work on the Viral Texts Project. Newspaper texts circulated around the globe, and far more quickly than I would have anticipated. The "Curious Calculation" article described above was first printed in <em>Scientific American</em> on April 10, 1847, and appeared in a number of UK papers as early as July 3 and <em>Bell's Life in Sydney and Sporting Reviewer</em>—the earliest Australian reprinting we have identified—on December 4. These are certainly longer spans than we are accustomed to in the internet age, but given the miles and leagues these texts had to travel in the mid-nineteenth century these speeds are impressive.
 
 Nevertheless we do frequently see in our network graphs, as we would expect, more frequent and stronger connections between newspapers nearby geographically than those farther dispersed. In this experiment I privilege and even accentuate those effects by weighing the graph's edges by physical distance. Here is the pertinent (and no doubt painfully messy) code:
-<pre><code>library(dplyr)
+
+```R
+library(dplyr)
 library(geosphere)
 
 SciAmSimpleGeo &lt;- select(SciAm, cluster, date, series, title)
@@ -293,7 +322,9 @@ SciAmGeoDirected$edgeDist[SciAmGeoDirected$edgeDist==0]&lt;-1
 SciAmGeoDirected$distWeight &lt;- 1 / as.numeric(SciAmGeoDirected$edgeDist)
 SciAmGeoEdges &lt;- SciAmGeoDirected %&gt;% group_by(title.x,title.y) %&gt;%
   summarize(meanDist = mean(edgeDist), distWeight = sum(distWeight), rawWeight = n())
-SciAmGeoEdges$distEffect &lt;- SciAmGeoEdges$rawWeight / SciAmGeoEdges$distWeight</code></pre>
+SciAmGeoEdges$distEffect &lt;- SciAmGeoEdges$rawWeight / SciAmGeoEdges$distWeight
+```
+
 I won't belabor my explanation this time, as most of these steps echo those above. There are important differences worth explaining, however. First, this code makes use of a gazetteer prepared by <a href="http://neu.academia.edu/ThanasisKinias">Viral Texts RA Thanasis Kinias</a>, which includes the latitude and longitude of most publications in our study (we are currently identifying and adding the few that are missing). I merge that gazetteer with the cluster data by publication IDs, so that each line in the data frame includes the geographic location of the reprinting it describes. Next, this code makes use of the <code>geosphere</code> R library to calculate the physical distance between each pair of reprintings. This distance is calculated as the crow flies, and so is a rather blunt calculation. A more sophisticated version of this experiment might attempt to incorporate what we know about postal roads, railroads, or other communications technologies, but for now we will suffice with a raw measure of distance. As we did with lag in the first experiment, we will modify the weights of each edge, dividing the raw weight of 1 for each instance of a given pairing by the geographic distance between the edge's two publications.
 
 <a href="http://networks.viraltexts.org/SciAmGeo/">The resulting network weighed by distance</a> looks quite different from that produced by privileging lag, and its statistics are likewise distinct. In quick succession, here are the top nodes by degree, out degree, and betweenness centrality:
