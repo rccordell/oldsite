@@ -283,6 +283,7 @@ To cite one more metric, we might look at <em>betweenness centrality</em>, which
 </tbody>
 </table>
 
+
 Were this a full network analysis, we might dig further into these statistics to ascertain why these publications are so measured. We might investigate, for example, whether papers such as the <em>Sydney Morning Herald</em> or <em>Yorkville Enquirer</em> are hubs connecting Australian, US, and/or UK newspapers in our corpora, which might account for their high betweenness scores. For these preliminary experiments, though, we might instead ask how these measurements for a network privileging temporal lag compare with the same measurements for a network that privileges another factor, such as geographic distance.
 
 <a href="/img/SciAm-network-lag.jpg" target="_blank"><img src="/img/SciAm-network-lag.jpg" alt="The Scientific American ego network, adjusted for lag, results in more separation and an easier-to-read visualization." width="400" /></a>
@@ -328,6 +329,7 @@ SciAmGeoEdges$distEffect &lt;- SciAmGeoEdges$rawWeight / SciAmGeoEdges$distWeigh
 I won't belabor my explanation this time, as most of these steps echo those above. There are important differences worth explaining, however. First, this code makes use of a gazetteer prepared by <a href="http://neu.academia.edu/ThanasisKinias">Viral Texts RA Thanasis Kinias</a>, which includes the latitude and longitude of most publications in our study (we are currently identifying and adding the few that are missing). I merge that gazetteer with the cluster data by publication IDs, so that each line in the data frame includes the geographic location of the reprinting it describes. Next, this code makes use of the <code>geosphere</code> R library to calculate the physical distance between each pair of reprintings. This distance is calculated as the crow flies, and so is a rather blunt calculation. A more sophisticated version of this experiment might attempt to incorporate what we know about postal roads, railroads, or other communications technologies, but for now we will suffice with a raw measure of distance. As we did with lag in the first experiment, we will modify the weights of each edge, dividing the raw weight of 1 for each instance of a given pairing by the geographic distance between the edge's two publications.
 
 <a href="http://networks.viraltexts.org/SciAmGeo/">The resulting network weighed by distance</a> looks quite different from that produced by privileging lag, and its statistics are likewise distinct. In quick succession, here are the top nodes by degree, out degree, and betweenness centrality:
+
 <table>
 <tbody>
 <tr>
@@ -376,6 +378,9 @@ I won't belabor my explanation this time, as most of these steps echo those abov
 </tr>
 </tbody>
 </table>
+
+---
+
 <table>
 <tbody>
 <tr>
@@ -424,6 +429,9 @@ I won't belabor my explanation this time, as most of these steps echo those abov
 </tr>
 </tbody>
 </table>
+
+---
+
 <table>
 <tbody>
 <tr>
@@ -472,6 +480,7 @@ I won't belabor my explanation this time, as most of these steps echo those abov
 </tr>
 </tbody>
 </table>
+
 Immediately apparent is the spread of this graph: the network is less tightly clustered than previous iterations, separating (as we would expect) into more distinct geographic groups that mostly align with the different, largely nationally organized, corpora from which we are drawing in the Viral Texts Project. What's perhaps becomes most interesting, then, are those nodes that sit between those geographic communities, which we might hypothesize served as hubs for the international exchange of information. The <em>Aberdeen Journal</em>, for instance, is grouped into a community with other UK newspapers using Gephi's modularity algorithm, but it also has quite strong ties (despite the long distances) with Australian papers, and clusters near them in the graph. Perhaps unsurprisingly, then, the <em>Aberdeen Journal</em> has one of the highest betweenness centrality measures in the graph, as it may have served as a hub for the movement of texts between the UK and Australian newspaper communities. We would need to do more work with the paper itself to substantiate this hypotheses (or disprove it), but I offer this as one example of how network models point toward new literary-historical research questions.
 
 If our goal is to triangulate among the different network models in our experiments here, we might focus our attention on those publications that appear on both lists: e.g. the <em>Boston Investigator</em>, the <em>New York Evangelist</em>, or the <em>Vermont Chronicle</em>. Certainly publications important in both graphs have a higher likelihood of being important to our overall understanding of the relationships they represent. However, we might just as easily ask about the differences. What does it mean when a publication appears as important in a graph weighted by time and less important in a graph weighted by geographic space? These kinds of questions should guide our refinements to these methods in the coming months.
