@@ -19,16 +19,19 @@ categories:
 
 On November 28, 1849 the <a href="chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/"><em>Lewisburg Chronicle, and the West Branch Farmer</em></a> published one of the most popular poems of the nineteenth century, Edgar Allan Poe’s “The Raven.”
 
-[caption id="attachment_1401" align="aligncenter" width="771"]<a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/" rel="attachment wp-att-1401"><img class="size-full wp-image-1401" src="http://ryancordell.org/the-stuff/uploads/2016/01/pasted-image-small-67.png" alt="The November 28, 1849 Lewisburg Chronicle, and the West Branch Farmer" width="771" height="1000" /></a> The November 28, 1849 <em>Lewisburg Chronicle, and the West Branch Farmer</em>[/caption]
+<a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/" target="_blank"><img src="/img/pasted-image-small-67.png" alt="The November 28, 1849 Lewisburg Chronicle, and the West Branch Farmer" /></a>
+  
+*The November 28, 1849 Lewisburg Chronicle, and the West Branch Farmer*
 
 The <em>Lewisburg Chronicle</em>’s “Raven” is one version among many printed after Poe’s death in 1849—“By Edgar A. Poe, dec’d”—interesting as a small signal of the poem’s circulation and reception. It is just such reprinting that we are tracing in <a href="http://viraltexts.org">the Viral Texts project</a>, in which we use computational methods to automatically surface patterns of reprinting across nineteenth-century newspaper archives.
 
 And so this version of the poem also becomes interesting as a digitized object in the twenty-first century, in which at least one iteration of the poem’s famous refrain is rendered by optical character recognition as, “Q i-jtb the Raven, ‘Nevermore’” (OCR is a term for computer programs that identify machine-readable words from a scanned page image, and is the source for most of the searchable data in large-scale digital archives). What is <em>this</em> text—this digital artifact I access in 2016? Where did it come from, and how did it come to be?
-<!--more-->
 
 Such questions are particularly acute as researchers increasingly leverage digitized archives through computational text and image analysis. As a complement to such analyses we require more robust methods for describing digital artifacts bibliographically: accounting for the sources, technologies, and social realities of their creation in ways that make their affordances and limitations more readily visible and available for critique. Matthew Kirschenbaum has named such practices “forensics,” while Bonnie Mak has suggested “an archaeology that excavates for consideration the discursive practices by which digitizations are produced, circulated, and received.”<a id="fnref:1" class="footnote" title="see footnote" href="#fn:1">[1]</a><a id="fnref:2" class="footnote" title="see footnote" href="#fn:2">[2]</a>
 
-[caption id="attachment_1403" align="alignnone" width="2070"]<a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr/" rel="attachment wp-att-1403"><img class="wp-image-1403 size-full" src="http://ryancordell.org/the-stuff/uploads/2016/01/pasted-image-200.png" alt="A sample of the OCR-derived text for &quot;The Raven&quot; in the CA Lewisburg Chronicle, including the line that gives this talk its title." width="2070" height="778" /></a> A sample of the OCR-derived text for "The Raven" in the CA <em>Lewisburg Chronicle</em>, including the line that gives this talk its title.[/caption]
+<a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr/" target="_blank"><img src="/img/pasted-image-200.png" alt="A sample of the OCR-derived text for “The Raven” in the CA Lewisburg Chronicle, including the line that gives this talk its title." width="100%" /></a>
+  
+*A sample of the OCR-derived text for “The Raven” in the CA Lewisburg Chronicle, including the line that gives this talk its title.*
 
 Discussions of large-scale digital text archives inevitably return to the question of the OCR-derived text data that underlies them. Depending on the type, age, and conditions of its given historical texts, as well as on the procedures, hardware, and software of their digitization, OCR quality in large-scale archives ranges widely. The consequences of “errorful” OCR files, to borrow a term from computer science, influence our research in ways by now well expounded by humanities scholars, inhibiting, for instance, comprehensive search. Were I to search “Quoth the Raven” in the Chronicling America database, its search engine would not find the line that gives me my title. However, critiques that both begin and end with the imperfections of the digitized text signal a foreshortening of the bibliographic imagination, in which the digital archive can be only a transparent window into the “actual,” material objects of study.
 
@@ -44,13 +47,15 @@ In arguing that those text files constitute new editions, I am not particularly 
 
 In order to reorient ourselves toward the digitized archive, we must reckon with its constituent parts and take seriously its digitality. In my remaining time I will outline some steps toward such a method using <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/">the November 28, 1849 <em>Lewisburg Chronicle</em></a>, in hopes this focus will seed thinking about the larger archive from which it is drawn. While some of the steps I describe may seem self-evident, I suggest they are not to a good many scholars working in digital archives, and that even such obvious steps are elided when scholars treat—and cite—digitized sources as transparent surrogates rather than new editions.
 
-1. First, CA’s interface offers relatively little information about particular newspaper issues. The only prominent metadata lists a newspaper’s name, issue date, and the image number of the displayed page. Clicking on the name of the newspaper just below the title—where, in this case, it reads “About Lewisburg Chronicle…”—brings users to <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/">a longer catalogue and narrative description of the print edition of this newspaper</a>. These prose narratives were written for each CA newspaper by the awardees who digitized them—more on awardees soon—and offer insight into the aims, audience, and affiliations of the papers.
+1\. First, CA’s interface offers relatively little information about particular newspaper issues. The only prominent metadata lists a newspaper’s name, issue date, and the image number of the displayed page. Clicking on the name of the newspaper just below the title—where, in this case, it reads “About Lewisburg Chronicle…”—brings users to <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/">a longer catalogue and narrative description of the print edition of this newspaper</a>. These prose narratives were written for each CA newspaper by the awardees who digitized them—more on awardees soon—and offer insight into the aims, audience, and affiliations of the papers.
 
 To glean more details about a particular newspaper’s CA digitization, users can click the link at the bottom right of a newspaper’s page—where it reads in this instance “Provided by Penn State…”—to learn more about the papers contributed by a specific awardee. From <a href="http://chroniclingamerica.loc.gov/awardees/pst/">the awardees page for the Penn State University Libraries</a>, one can browse the batches they have contributed to CA and learn that the November 28, 1849 issue of the <em>Lewisburg Chronicle</em> was uploaded in <a href="http://chroniclingamerica.loc.gov/batches/batch_pst_fenske_ver02/">batch_pst_fenske_ver02</a> on July 9, 2013 at 8:07pm.<a id="fnref:10" class="footnote" title="see footnote" href="#fn:10">[10]</a> This metadata is all that CA provides for any given issue directly through its interface.
 
-2. We can learn more about the digitization process for an issue in CA by downloading its <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1.jp2">JPG</a> and <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1.pdf">PDF</a> files. While the images themselves reproduce the historical page, there is much more information about the files and their creation in their Exif (Exchangeable Image File Format) data. There are a range of methods for reading Exif data. Using the command line application <a href="http://www.sno.phy.queensu.ca/~phil/exiftool/">Exiftool</a> on the JPG and PDF of our sample <em>Lewisburg Chronicle</em> issue, for instance, we see the following:<a id="fnref:11" class="footnote" title="see footnote" href="#fn:11">[11]</a>
+2\. We can learn more about the digitization process for an issue in CA by downloading its <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1.jp2">JPG</a> and <a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1.pdf">PDF</a> files. While the images themselves reproduce the historical page, there is much more information about the files and their creation in their Exif (Exchangeable Image File Format) data. There are a range of methods for reading Exif data. Using the command line application <a href="http://www.sno.phy.queensu.ca/~phil/exiftool/">Exiftool</a> on the JPG and PDF of our sample <em>Lewisburg Chronicle</em> issue, for instance, we see the following:<a id="fnref:11" class="footnote" title="see footnote" href="#fn:11">[11]</a>
 
-<em>JPF Exif metadata</em><small><code>
+<em>JPF Exif metadata</em>
+
+```
 ExifTool Version Number: 10.01
 File Name: seq-1.jp2
 Directory: .
@@ -77,9 +82,11 @@ Color Space: Grayscale
 Warning: Can't currently handle huge JPEG 2000 boxes
 Image Size: 5412x6997
 Megapixels: 37.9
-</code></small>
+```
 
-<em>PDF Exif Metadata</em><small><code>
+<em>PDF Exif Metadata</em>
+
+```
 Ryans-MacBook-Pro:downloads rcc$ exiftool seq-1.pdf
 ExifTool Version Number: 10.01
 File Name: seq-1.pdf
@@ -105,15 +112,17 @@ Identifier: Reel number 0028077635A. Sequence number 50
 Create Date: 2012:01:18 12:56:08-07:00
 Producer: itext-paulo-138 (itextpdf.sf.net-lowagie.com)
 Modify Date: 2012:01:18 12:56:08-07:00
-</code></small>
+```
 
 As we can see these examples, some metadata recurs in the Exif metadata for each file, while some is unique to one file or the other. In this case, the JPG’s Exif metadata mostly describes the JPG file itself: its size, resolution, color profile. The PDF Exif metadata, by contrast, details when the file was originally created, to the second (January 18, 2012); the microfilm reel from which it was scanned (Reel number 0028077635A); and even the software package that created it (itext-paulo–138). <a href="http://itextpdf.com/">iText is a software package </a>for managing large-scale PDF creation, and it uses the ABBYY Finereader OCR software.
 
-3. There is one additional image file from which scholars can glean information about CA’s digitized newspaper editions, though one must read the <a href="http://www.loc.gov/ndnp/guidelines/">NDNP’s Technical Guidelines</a> to realize it exists.<a id="fnref:12" class="footnote" title="see footnote" href="#fn:12">[12]</a> According to those guidelines, each issue uploaded to CA must include an archive-quality TIFF file. That latter file is not served to users as part of Chronicling America’s interface, likely because they are quite large files and it would be server-intensive for too many users to download them frequently. To obtain the archive-quality tiff of this <em>Lewisburg Chronicle</em> issue, I wrote directly to the Library of Congress; after a few days a librarian sent me a link through which I could download the TIFF.
+3\. There is one additional image file from which scholars can glean information about CA’s digitized newspaper editions, though one must read the <a href="http://www.loc.gov/ndnp/guidelines/">NDNP’s Technical Guidelines</a> to realize it exists.<a id="fnref:12" class="footnote" title="see footnote" href="#fn:12">[12]</a> According to those guidelines, each issue uploaded to CA must include an archive-quality TIFF file. That latter file is not served to users as part of Chronicling America’s interface, likely because they are quite large files and it would be server-intensive for too many users to download them frequently. To obtain the archive-quality tiff of this <em>Lewisburg Chronicle</em> issue, I wrote directly to the Library of Congress; after a few days a librarian sent me a link through which I could download the TIFF.
 
 The TIFF file’s Exif metadata includes yet more information about how this issue was digitized and is the only place that lists the scanner model used for digitization: the Eclipse 300D microfilm scanner.<a id="fnref:13" class="footnote" title="see footnote" href="#fn:13">[13]</a>
 
-<em>TIFF Exif Metadata</em><small><code>
+<em>TIFF Exif Metadata</em>
+
+```
 ExifTool Version Number: 10.01
 File Name: 0050.tif
 Directory: .
@@ -153,15 +162,17 @@ File Source: Unknown (microfilm)
 Image Unique ID: 50
 Image Size: 5409x6997
 Megapixels: 37.8
-</code></small>
+```
 
-[embed]https://www.youtube.com/watch?v=vhFjYFiLfIc[/embed]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vhFjYFiLfIc" frameborder="0" allowfullscreen></iframe>
 
 This might seem a mundane detail, but I would argue it is just as important to a full understanding of this text as knowing the printing press is to a full understanding of a printed book.
 
-4. Next, we can learn a few new details from the XML (eXtensible Markup Language) file of this newspaper page. The location of this file is not obvious, though one can find it on the CA website. In short, one must scroll to the bottom of the “Text” file provided in the main menu (where the JPG and PDF can be found) where one finds a link to the XML file.<a id="fnref:14" class="footnote" title="see footnote" href="#fn:14">[14]</a> The <em>Lewisburg Chronicle</em>’s XML file includes important additional metadata about the OCR processing that generated the computable text of this edition.
+4\. Next, we can learn a few new details from the XML (eXtensible Markup Language) file of this newspaper page. The location of this file is not obvious, though one can find it on the CA website. In short, one must scroll to the bottom of the “Text” file provided in the main menu (where the JPG and PDF can be found) where one finds a link to the XML file.<a id="fnref:14" class="footnote" title="see footnote" href="#fn:14">[14]</a> The <em>Lewisburg Chronicle</em>’s XML file includes important additional metadata about the OCR processing that generated the computable text of this edition.
 
-[caption id="attachment_1406" align="alignnone" width="730"]<a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr.xml"><img class="wp-image-1406 size-large" src="http://ryancordell.org/the-stuff/uploads/2016/01/pasted-image-734-1024x834.png" alt="The XML file for this edition of the Lewisburg Chronicle." width="730" height="595" /></a> The XML file for this edition of the <em>Lewisburg Chronicle</em>.[/caption]
+<a href="http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/ocr.xml" target="_blank"><img src="/img/pasted-image-734.png" alt="The XML file for this edition of the Lewisburg Chronicle." width="600" /></a>
+  
+*The XML file for this edition of the Lewisburg Chronicle.*
 
 These XML fields show, for instance, that the OCR was performed using the Abbyy Finereader 9 software, with a “Predicted Word Accuracy” of 98.2%.<a id="fnref:15" class="footnote" title="see footnote" href="#fn:15">[15]</a>
 
@@ -171,7 +182,9 @@ I would assert that the digitized edition of the November 28, 1849 <em>Lewisburg
 
 The details gleaned from these files, however, are only one part of a full bibliographic account, which should also concern itself with the institutional, financial, social, and governmental structures that lead one historical textual object to be digitized, while another is not. In Ian Milligan’s study of newspapers cited in Canadian dissertations, he demonstrates quantitatively that overall citations of newspapers have increased in “the post-database period,” but also that those citations draw ever more disproportionately from those papers which have been digitized over those which have not: “Before digitization, a newspaper like the Ottawa Citizen was roughly equivalent in historical usage to the Toronto Star, as one might expect, given their relative prominence in Canadian history. After the Star was digitized and made available, however, it became far more prominent” in dissertations.<a id="fnref:17" class="footnote" title="see footnote" href="#fn:17">[17]</a> In other words, decisions about what to digitize ripple throughout the scholarly record from then on, a phenomenon we should mark in scholarship drawn from digitized texts.
 
-[caption id="attachment_1407" align="aligncenter" width="730"]<img class="size-large wp-image-1407" src="http://ryancordell.org/the-stuff/uploads/2016/01/pasted-image-1152-1024x676.jpg" alt="A map of state contributions to Chronicling America, prepared by Viral Texts research assistant Abby Mullen." width="730" height="482" /> A map of state contributions to Chronicling America, prepared by Viral Texts research assistant Abby Mullen.[/caption]
+<a href="/img/pasted-image-1152.jpg" target="_blank"><img src="/img/pasted-image-1152.jpg" alt="A map of state contributions to Chronicling America, prepared by Viral Texts research assistant Abby Mullen." width="600" /></a>
+  
+*A map of state contributions to Chronicling America, prepared by Viral Texts research assistant Abby Mullen.*
 
 In the case of the <em>Lewisburg Chronicle</em>, understanding the decisions that led to its digitization requires delving into a range of paratexts related to the United States’ National Digital Newspaper Project (NDNP) and its grantees. By mentioning the NDNP, I highlight an essential bibliographic fact about the Chronicling America database. CA is not a single digitization project run by the Library of Congress, but the portal to data generated by the NDNP, which awards grants to groups in individual states seeking to digitize their historical newspapers. Such state-level granting, however, means that some states are well represented, others less so, while many are not represented at all. For instance, my home state of Massachusetts has not yet participated in the NDNP, meaning that CA includes no papers from Boston or other Massachusetts towns. This also means that measures of newspapers’ significance vary from state to state. In their applications for NDNP funding, groups must articulate a rationale for choosing “historically significant newspapers” from their state. While these rationales share many features, they are not identical.<a id="fnref:18" class="footnote" title="see footnote" href="#fn:18">[18]</a>
 
@@ -187,7 +200,9 @@ Over their three rounds of funding, then, Penn State sought to digitize newspape
 
 Phase II’s blog includes <a href="http://www.personal.psu.edu/kkm111/blogs/padnp2/graphs.html">a graph</a> and <a href="http://www.personal.psu.edu/kkm111/blogs/padnp2/maps.html">map</a> outlining the state of newspaper digitization in Pennsylvania at the time of that work.
 
-[caption id="attachment_1408" align="aligncenter" width="730"]<a href="http://www.personal.psu.edu/kkm111/blogs/padnp2/maps.html" rel="attachment wp-att-1408"><img class="size-large wp-image-1408" src="http://ryancordell.org/the-stuff/uploads/2016/01/Map_Free-Paid-Digitized-Newspaper-Coverage-in-PA-by-County-958-1024x791.jpg" alt="Map of historical newspaper digitization for Pennsylvania as of 2010, prepared for the Pennsylvania Digital Newspaper Program." width="730" height="564" /></a> Map of historical newspaper digitization for Pennsylvania as of 2010, prepared for the Pennsylvania Digital Newspaper Program.[/caption]
+<a href="/img/Map_Free-Paid-Digitized-Newspaper-Coverage-in-PA-by-County-958.jpg" target="_blank"><img src="/img/Map_Free-Paid-Digitized-Newspaper-Coverage-in-PA-by-County-958.jpg" alt="Map of historical newspaper digitization for Pennsylvania as of 2010, prepared for the Pennsylvania Digital Newspaper Program." width="600" /></a>
+  
+*Map of historical newspaper digitization for Pennsylvania as of 2010, prepared for the Pennsylvania Digital Newspaper Program.*
 
 The <em>Lewisburg Chronicle, and the West Branch Farmer</em> was scanned in Phase II because Union County had been ignored by previous efforts, both public and commercial. Reading the narrative about the <em>Lewisburg Chronicle</em>, prepared for the PaNDP and now provided on CA, we understand that the paper was chosen among those published in Union Country because of its stability, as “At least eight early Lewisburg weeklies came and went between 1824 and 1842” before the <em>Chronicle</em> brought a regular publication to the county.<a id="fnref:21" class="footnote" title="see footnote" href="#fn:21">[21]</a>
 
