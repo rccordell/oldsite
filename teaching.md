@@ -10,7 +10,7 @@ I teach both graduate and undergraduate courses at Northeastern University, most
 
 + Humanities Data Analysis: [Spring 2017](http://s17hda.ryancordell.org)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
-+ Text, Maps, Networks—Digital Methods for Literary Study: [Fall 2014](http://f14tot.ryancordell.org/)
++ Text, Maps, Networks—Digital Methods for Literary Study: [Fall 2014](http://f14tmn.ryancordell.org/)
 
 ## Undergraduate Courses
 
