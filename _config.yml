@@ -32,9 +32,8 @@ navbar-links:
   Teaching: "teaching"
   CV: "http://cv.ryancordell.org"
   Tweet: "https://twitter.com/ryancordell"
-  Projects:
-    - Viral Texts: "http://viraltexts.org"
-    - Oceanic Exchanges: "http://oceanicexchanges.org"
+  Viral Texts: "http://viraltexts.org"
+  Oceanic Exchanges: "http://oceanicexchanges.org"
 
 # Gems
 gems:
