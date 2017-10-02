@@ -1,0 +1,13 @@
+masthead:
+  - title: "About"
+    url: /about/
+  - tile: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: http://cv.ryancordell.org
+  - title: "Tweet"
+    url: https://twitter.com/ryancordell
+  - title: "Viral Texts"
+    url: http://viraltexts.org
+  - title: "OcEx"
+    url: http://oceanicexchanges.org
