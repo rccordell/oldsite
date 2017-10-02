@@ -28,14 +28,13 @@ github:
 
 # List of links in the navigation bar 
 navbar-links:
-  Team: "team"
-  News: "news"
-  Data: "https://osf.io/wa94s/"
-  Project Links:
-    - Digging Into Data: "https://diggingintodata.org/"
-    - Associated Projects: "associated-projects"
-    - Twitter: "https://twitter.com/oceanicex"
-    - Github: "https://github.com/OceanicExchanges"
+  About: "about"
+  Teaching: "teaching"
+  CV: "http://cv.ryancordell.org"
+  Tweet: "https://twitter.com/ryancordell"
+  Projects:
+    - Viral Texts: "http://viraltexts.org"
+    - Oceanic Exchanges: "http://oceanicexchanges.org"
 
 # Gems
 gems:
