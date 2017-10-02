@@ -26,6 +26,18 @@ version:        3.4.1
 github:
   repo:         https://github.com/rccordell/
 
+# List of links in the navigation bar 
+navbar-links:
+  # About: "index"
+  Team: "team"
+  News: "news"
+  Data: "https://osf.io/wa94s/"
+  Project Links:
+    - Digging Into Data: "https://diggingintodata.org/"
+    - Associated Projects: "associated-projects"
+    - Twitter: "https://twitter.com/oceanicex"
+    - Github: "https://github.com/OceanicExchanges"
+
 # Gems
 gems:
   - jekyll-paginate
