@@ -28,7 +28,6 @@ github:
 
 # List of links in the navigation bar 
 navbar-links:
-  # About: "index"
   Team: "team"
   News: "news"
   Data: "https://osf.io/wa94s/"
