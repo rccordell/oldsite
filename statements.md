@@ -1,4 +1,4 @@
-On October 1, 2017 I submitted my dossier for tenure and promotion at Northeastern University. I hope at some point to be able to make my full dossier available, but for now I wanted to publish the three statements central to the dossier: my philosophies of teaching, research, and service. In particular, there are not many models for these documents in the digital humanities and I hope they can be useful to others as they work toward the tenure process. Plus, I believe what I've written here: which is to say, these statements do convey quite a bit about how I think of myself and my work, which may be of interest to anyone browsing here!
+On October 1, 2017 I submitted my dossier for tenure and promotion at Northeastern University. I hope at some point to be able to make my full dossier available, but for now I wanted to publish the three statements central to the dossier: my philosophies of teaching, research, and service. There are not many models for these documents in the digital humanities and I hope mine can be useful to others as they draft T&P or similar documents, such as job materials. Plus, I believe what I've written here: which is to say, these statements do convey quite a bit about how I think of myself and my work, which may be of interest to anyone browsing here!
 
 -----
 
@@ -24,6 +24,10 @@ I believe the most pressing scholarly questions in the coming years will require
 
 -----
 
+#### [Teaching Statement](#teaching) | [Research Statement](#research) | [Service Statement](#service)
+
+-----
+
 ## Research Statement <a name="research"></a> 
 
 My research seeks to illuminate how technologies of production, reception, and remediation shape the meanings of texts within communities. While I primarily study circulation and reprinting in nineteenth-century American newspapers, my interests extend to the influence of computation and digitization on contemporary reading, writing, and research. Across this temporal range, I am interesting in bringing popular varieties of literature such as temperance tracts, vignettes, advice columns, jokes, recipes, or even modern "viral media" into critical dialogue with more established objects of literary inquiry such as novels, short stories, or poetry. To serve those aims, my work is collaborative and interdisciplinary, drawing from and contributing to conversations in literary history, American studies, digital humanities, media studies, bibliography, book history, and even computer science. My scholarship insists that deep histories—of the book, of information, of virality, of computational thinking—inextricably underlie the most pressing debates of our own historical moment. By foregrounding these entwined histories, I seek to intervene in two directions: challenging the presentism of much contemporary technological rhetoric while insisting that humanistic inquiry must include engagements, both theoretical and material, with technology.
@@ -45,6 +49,10 @@ My commitment to an ethics of collaboration and public engagement will be enlarg
 My work with *OcEx* will define the primary arc of my research over the next few years. In the near term, I am also drafting two new journal articles and leading the writing of *Viral Texts*' book project, which is under contract with the University of Minnesota Press (Appendix B.15). In addition, David Smith and I were invited by the NEH and the Mellon Foundation to draft a report outlining the current state and future prospects for OCR research related to the humanities (see Appendix B.26). This work will be conducted during 2017-2018 and will likely lead to future funding and research activities stemming from the recommendations made in that report. Finally, with NULab colleague Élika Ortega Guzman I am supervising the planning for a new digital archival project. *Witnessing Hate: A Social Justice Archive of the Present* will be a crowd-sourced, web-based digital archive documenting incidents of hate speech and acts of violence inspired by racism, homophobia, xenophobia, and other bias in New England since the 2016 election, and will build on the expertise developed in the *Our Marathon* Project. Practically, then, I anticipate that the research threads described here will only thicken and expand as I move into an Associate Professorship.
 
 More idealistically, I look forward to advocating a robust and truly integrative digital humanities. After a period of hyperbolic rhetoric (on all sides) over the introduction of computational methods to the humanities, the past few years have seen a welcome transition into genuine dialog. Topics such as computation, data, and quantification have been increasingly addressed not simply as methods we might borrow for the humanities, but as objects of humanistic study in their own rights. Simultaneously—and, I would argue, not coincidentally—the use of computational methods for understanding literature, history, and related fields has matured, as has been evident in recent publications from scholars—among whom I would count myself—advancing arguments that integrate computational and humanistic evidence to powerful effect. The past has much yet to teach us about our own historical moment, even as our new tools can illuminate the past in unexpected ways.
+
+-----
+
+#### [Teaching Statement](#teaching) | [Research Statement](#research) | [Service Statement](#service)
 
 -----
 
