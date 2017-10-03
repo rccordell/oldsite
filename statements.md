@@ -1,7 +1,3 @@
-<style>
-h2 {text-align:center;}
-</style>
-
 On October 1, 2017 I submitted my dossier for tenure and promotion at Northeastern University. I hope at some point to be able to make my full dossier available, but for now I wanted to publish the three statements central to the dossier: my philosophies of teaching, research, and service. There are not many models for these documents in the digital humanities and I hope mine can be useful to others as they draft T&P or similar documents, such as job materials. Plus, I believe what I've written here: which is to say, these statements do convey quite a bit about how I think of myself and my work, which may be of interest to anyone browsing here!
 
 -----
