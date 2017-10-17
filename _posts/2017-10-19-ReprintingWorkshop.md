@@ -1,6 +1,6 @@
 ---
 title: "Viral Texts: Reprinting and Circulation in the Data of Historical Newspapers"
-date: 2017-09-03
+date: 2017-10-19
 author: Ryan Cordell
 layout: post
 ---
