@@ -33,7 +33,7 @@ Once everyone has time to evaluate 2-3 newspapers, we will discuss our ideas tog
 
 [![A newspaper illustration depicting a man engaging in barter, paying his yearly newspaper subscription to the "Podunk Weekly Bugle" with various farm produce.](https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg)](https://commons.wikimedia.org/wiki/File:Barter-Chickens_for_Subscription.jpg)
 
-*The Country Editor—Paying the Yearly Subscription, drawn by F. S. Church (17 January 1874). See a full-resolution version at [https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg](https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg)*
+*The Country Editor—Paying the Yearly Subscription, drawn by F. S. Church for* Harper's Weekly *(17 January 1874). See a full-resolution version at [at Wikimedia](https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg)*
 
 ### IV. Computational Exploration (5:40-6:10)
 
