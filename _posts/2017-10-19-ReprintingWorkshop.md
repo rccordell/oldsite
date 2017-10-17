@@ -31,6 +31,10 @@ Next, I've brought a sample of nineteenth-century newspapers with me. These come
 
 Once everyone has time to evaluate 2-3 newspapers, we will discuss our ideas together. I will share information about nineteenth-century newspaper printing practices as applicable to our conversation.
 
+[![A newspaper illustration depicting a man engaging in barter, paying his yearly newspaper subscription to the "Podunk Weekly Bugle" with various farm produce.](https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg)](https://commons.wikimedia.org/wiki/File:Barter-Chickens_for_Subscription.jpg)
+
+*The Country Editor—Paying the Yearly Subscription, drawn by F. S. Church (17 January 1874). See a full-resolution version at [https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg](https://upload.wikimedia.org/wikipedia/commons/0/05/Barter-Chickens_for_Subscription.jpg)*
+
 ### IV. Computational Exploration (5:40-6:10)
 
 In this segment, I will walk through some basic computational text analysis with newspapers that will begin to illustrate our approach to finding reprints in [the Viral Texts Project](http://viraltexts.org). Publications from the project and links to our tools can be found at [http://viraltexts.org](http://viraltexts.org). I've included the code below, and I will walk through it live to explain how it works.
