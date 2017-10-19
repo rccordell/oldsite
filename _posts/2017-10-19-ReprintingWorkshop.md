@@ -16,7 +16,7 @@ This workshop will teach participants about the structures of exchange, aggregat
 
 ### I. Introductions (4:30-4:40)
 
-First, let's go around the room and introduce ourselves.
+First, let's get a sense of what people are interested in.
 
 ### II. Exploring Nineteenth-Century Newspapers (4:40-5:10)
 
