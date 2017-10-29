@@ -10,9 +10,12 @@ permalink: /research/programmabletype/
 
 -----
 
-<a href="/img/ProgrammableType/IMG_5430.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_5430.jpg" alt="A line of R code set in moveable type." width="100%" /></a>
-  
-*A line of (valid, I think) R code set in moveable type*
+<a href="/img/ProgrammableType/IMG_5430.jpg" target="_blank">
+<figure>
+<p><img src="/img/ProgrammableType/IMG_5430.jpg" alt="A line of R code set in moveable type." width="100%" />
+<figcaption>A line of (valid, I think) R code set in moveable type.</figcaption>
+</figure>
+</a>
 
 This is not a talk about coding as it pertains to definitions of the digital humanities, or which seeks to graft some notion of programming to the boundaries of that discipline. To be direct: I don't think one must code in order to call oneself a digital humanist. And now to be fair: I see little evidence that many scholars in the field equate the field with coding, though that pairing has become a pervasive truism *about* the digital humanities. I would insist that [a single, three-minute position paper](http://stephenramsay.net/text/2011/01/08/whos-in-and-whos-out/) cannot serve as metonym for any field, DH included (or even as a metonym for [a particular scholar's full range of views](http://stephenramsay.net/text/2011/01/11/on-building/). There are many ways to engage with the digital humanities; coding is one of them.
 
@@ -41,7 +44,7 @@ While preparing for this talk, I asked the book historians in my Twitter network
 > (Not nonpareil, brevier, bourgeois, long primer merely,)[^type]  
 > These ocean waves arousable to fury and to death,  
 > Or sooth'd to ease and sheeny sun and sleep,  
-> Within the pallid slivers slumbering.  
+> Within the pallid slivers slumbering.  	
 > 
 > Walt Whitman, "A Font of Type," *Leaves of Grass* (1891-92), via [The Walt Whitman Archive](http://whitmanarchive.org/published/LG/1891/poems/312) 
 
@@ -51,8 +54,10 @@ We might also consider [William Blake's "infernal method" of printing](http://ww
 
 Even beyond humanists specifically employed in printing, a significant portion of academic and artistic writers were, by choice or by necessity, deeply knowledgeable about the processes of composition, imposition, and printing that committed their words to paper. Evidence of this widespread knowledge suffuses books well through the twentieth century (and we could compile contemporary examples of authors commenting on digital publishing as well). We might cite, for instance, Anne Bradstreet writing a poem addressed to the book she "Made...in rags, halting to th’ press to trudge;" or [the typographical and material experiments in Laurence Sterne's *Tristram Shandy*](https://exhibitions.lib.cam.ac.uk/laurencesterne/case/sternes-publications/); or Jane Austen [writing to her sister Cassandra](http://www.pemberley.com/janeinfo/auslet22.html#letter125) about "those enormous great stupid thick quarto volumes which one always sees in the breakfast parlour," concluding "I detest a quarto" and championing the octavo; or [the cetology chapter](http://www.powermobydick.com/Moby032.html) of Herman Melville's *Moby Dick*, in which classifies whales into the categories folio, octavo, and duodecimo, omitting the quarto because its shape is not sufficiently long to resemble a whale's body; or we might cite the very long history of [pattern poetry](https://collation.folger.edu/easter-wings/), which through its form comments on the materiality of type, spacing, and textual production. These are only a few examples of the ways writers reflected on or experimented with the technical processes which brought their writing to readers. The fields of bibliography and book history demonstrate again and again how understanding the technical, social, and economic realities of textual production can illuminate the literary, political, and sociological meanings of books. 
 
-<a href="/img/ProgrammableType/16716242_10209770172668621_3139025863163641070_o-393.jpg" target="_blank"><img src="/img/ProgrammableType/16716242_10209770172668621_3139025863163641070_o-393.jpg" alt="Technologies of Text students planning their printing projects." width="100%" /></a>  
-*Technologies of Text students planning their printing projects.*
+<a href="/img/ProgrammableType/16716242_10209770172668621_3139025863163641070_o-393.jpg" target="_blank">
+<figure>
+<p><img src="/img/ProgrammableType/16716242_10209770172668621_3139025863163641070_o-393.jpg" alt="Technologies of Text students planning their printing projects." width="100%" />
+<figcaption>Technologies of Text students planning their printing projects.</figcaption></a>  
 
 My students learn much about the processes of letterpress production by reading such book historians, but my "Technologies of Text" class proposes that, perhaps, the perspectives of compositors and printers can be best understood from the perspectives of compositors and printers. Using a somewhat ragtag collection of types and images I have assembled, I ask my students to learn about print by bringing a small printing project—a card or a pamphlet—from conception to execution. Working through this experience—and "work" is an important, operative word here—proves quite distinct from what my students typically do in English classes. They report that composing type and printing *feels* different, that it requires a discrete kind of thinking from that required for reading and writing. One student described it in spatial terms, as requiring the same part of their brain they use to assemble puzzles. 
 
