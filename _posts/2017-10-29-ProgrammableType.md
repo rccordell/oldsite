@@ -1,3 +1,7 @@
+*The talk below was developed for lectures during the [Congreso Internacional Las Edades del Libro](http://www.actividadesacademicas.iib.unam.mx/index.php/EDL/edl17/schedConf/overview) at UNAM in Mexico City and [THATCamp Vanderbilt 2017](https://www.vanderbilt.edu/digitalhumanities/thatcamp-2017/) in Nashville. I'm grateful to participants at both events for their insightful questions and comments, and I welcome feedback from readers on this blog as I further develop this piece.*
+
+-----
+
 <a href="/img/ProgrammableType/IMG_5430.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_5430.jpg" alt="A line of R code set in moveable type." width="100%" /></a>
   
 *A line of (valid, I think) R code set in moveable type*
