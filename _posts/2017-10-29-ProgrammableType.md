@@ -341,5 +341,3 @@ At root, such questions are quite similar to those I want students to ask of boo
 
  Matthew Kirschenbaum's wide-ranging, "Software, It's a Thing," unfolds a dozen different frameworks for thinking about software. Some of these align with what I have described here, while others take quite different perspectives, such as that of consumers. -->
 
--->
-
