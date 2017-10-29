@@ -12,8 +12,10 @@ permalink: /research/programmabletype/
 
 <figure>
 <a href="/img/ProgrammableType/IMG_5430.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_5430.jpg" alt="A line of R code set in moveable type." width="100%" /></a>
-<figcaption>*A line of—valid, I think—R code set in moveable type.*</figcaption>
+<figcaption>A line of—valid, I think—R code set in moveable type.</figcaption>
 </figure>
+
+-----
 
 This is not a talk about coding as it pertains to definitions of the digital humanities, or which seeks to graft some notion of programming to the boundaries of that discipline. To be direct: I don't think one must code in order to call oneself a digital humanist. And now to be fair: I see little evidence that many scholars in the field equate the field with coding, though that pairing has become a pervasive truism *about* the digital humanities. I would insist that [a single, three-minute position paper](http://stephenramsay.net/text/2011/01/08/whos-in-and-whos-out/) cannot serve as metonym for any field, DH included (or even as a metonym for [a particular scholar's full range of views](http://stephenramsay.net/text/2011/01/11/on-building/). There are many ways to engage with the digital humanities; coding is one of them.
 
@@ -52,36 +54,64 @@ We might also consider [William Blake's "infernal method" of printing](http://ww
 
 Even beyond humanists specifically employed in printing, a significant portion of academic and artistic writers were, by choice or by necessity, deeply knowledgeable about the processes of composition, imposition, and printing that committed their words to paper. Evidence of this widespread knowledge suffuses books well through the twentieth century (and we could compile contemporary examples of authors commenting on digital publishing as well). We might cite, for instance, Anne Bradstreet writing a poem addressed to the book she "Made...in rags, halting to th’ press to trudge;" or [the typographical and material experiments in Laurence Sterne's *Tristram Shandy*](https://exhibitions.lib.cam.ac.uk/laurencesterne/case/sternes-publications/); or Jane Austen [writing to her sister Cassandra](http://www.pemberley.com/janeinfo/auslet22.html#letter125) about "those enormous great stupid thick quarto volumes which one always sees in the breakfast parlour," concluding "I detest a quarto" and championing the octavo; or [the cetology chapter](http://www.powermobydick.com/Moby032.html) of Herman Melville's *Moby Dick*, in which classifies whales into the categories folio, octavo, and duodecimo, omitting the quarto because its shape is not sufficiently long to resemble a whale's body; or we might cite the very long history of [pattern poetry](https://collation.folger.edu/easter-wings/), which through its form comments on the materiality of type, spacing, and textual production. These are only a few examples of the ways writers reflected on or experimented with the technical processes which brought their writing to readers. The fields of bibliography and book history demonstrate again and again how understanding the technical, social, and economic realities of textual production can illuminate the literary, political, and sociological meanings of books. 
 
-<a href="/img/ProgrammableType/16716242_10209770172668621_3139025863163641070_o-393.jpg" target="_blank">
-<figure>
-<p><img src="/img/ProgrammableType/16716242_10209770172668621_3139025863163641070_o-393.jpg" alt="Technologies of Text students planning their printing projects." width="100%" />
-<figcaption>Technologies of Text students planning their printing projects.</figcaption></a>  
+-----
+
+<figure><a href="/img/ProgrammableType/16716242_10209770172668621_3139025863163641070_o-393.jpg" target="_blank"><img src="/img/ProgrammableType/16716242_10209770172668621_3139025863163641070_o-393.jpg" alt="Technologies of Text students planning their printing projects." width="100%" /></a>
+<figcaption>Technologies of Text students planning their printing projects.</figcaption></figure> 
+
+-----
 
 My students learn much about the processes of letterpress production by reading such book historians, but my "Technologies of Text" class proposes that, perhaps, the perspectives of compositors and printers can be best understood from the perspectives of compositors and printers. Using a somewhat ragtag collection of types and images I have assembled, I ask my students to learn about print by bringing a small printing project—a card or a pamphlet—from conception to execution. Working through this experience—and "work" is an important, operative word here—proves quite distinct from what my students typically do in English classes. They report that composing type and printing *feels* different, that it requires a discrete kind of thinking from that required for reading and writing. One student described it in spatial terms, as requiring the same part of their brain they use to assemble puzzles. 
 
-<a href="/img/ProgrammableType/DSC_0563-356.jpg" target="_blank"><img src="/img/ProgrammableType/DSC_0563-356.jpg" alt="Technologies of Text students measure the elements of their printing project." width="100%" /></a>  
-*Technologies of Text students measure the elements of their printing project.*
+-----
 
+<figure><a href="/img/ProgrammableType/DSC_0563-356.jpg" target="_blank"><img src="/img/ProgrammableType/DSC_0563-356.jpg" alt="Technologies of Text students measure the elements of their printing project." width="100%" /></a>  
+<figcaption>Technologies of Text students measure the elements of their printing project.</figcaption>
+</figure>
+
+-----
 
 For those who have never worked on a printing press, it's worth describing how the experience conjoins considerations about an abstract "text" with considerations of materials, geometry, and even—quite literally—pressure. Students can choose among the types (and type sizes) that I own, but only these, just as editors and compositors would choose from among the types owned by their print shop. Each font—a word which refers to the style of lettering but also the precise size—is contained in a wooden drawer, and these drawers describe aesthetic limits for any particular project. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/27-1456.jpg" target="_blank"><img src="/img/ProgrammableType/27-1456.jpg" alt="Lines of type composed using a composing stick." width="400" /></a>  
-*Lines of type composed using a composing stick.*
+<figcaption>Lines of type composed using a composing stick.</figcaption>
+</figure>
+
+-----
 
 Once a font is chosen, students must *compose* the text, which means to assemble the letters using a composing stick. They must do so upside down and backwards, and the must keep in mind the eventual size of the layout on their chosen page, so that they compose lines of the correct length. These lines must eventually be assembled in a printers' frame, along with woodcuts of images they hope to include in their print. 
 
-<a href="/img/ProgrammableType/IMG_4460-1411.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_4460-1411.jpg" alt="A printing project locked up in the frame using furniture and quoins." width="400" /></a>  
-*A printing project locked up in the frame using furniture and quoins.*
+<figure>
+<a href="/img/ProgrammableType/IMG_4460-1411.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_4460-1411.jpg" alt="A printing project locked up in the frame using furniture and quoins." width="400" /></a> 
+<figcaption>A printing project locked up in the frame using furniture and quoins.</figcaption>
+</figure>
+
+-----
 
 At this point students use *furniture*—pieces of wood or metal in a variety of sizes and (rectangular or square) shapes—to fill in the spaces between the edges of what they want to print and the frame. Then they use *quoins*—either wooden wedges or spring-adjustable metal devices—to "lock in" the type and images so they will not move under the pressure of the press. Before they can print, they also have to create a custom *frisket*—an ink-resistant sheet of paper with holes cut in it to accommodate the printing surface—to keep ink from marring the non-printing sections of the paper. After all this—and, frankly, I'm omitting a few smaller steps for time—they can finally print their text on my [Book Beetle desktop screw press](http://www.bookbeetlepress.com/). 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/35-378.jpg" target="_blank"><img src="/img/ProgrammableType/35-378.jpg" alt="A student inking her project for printing." width="100%" /></a>  
-*A student inking her project for printing.*
+<figcaption>A student inking her project for printing.</figcaption>
+</figure>
+
+-----
 
 As when assembling a puzzle, print shop processes are often frustrating for students. Sometimes I don't have a font that quite fits the mood they hope to convey. For students whose only experience of "font" is a drop-down menu with hundreds of immediate options, the physical limits of cold metal—including the weight of what I can transport from my office to our classroom!—can be difficult to adapt to. Sometimes they craft an elaborate plan that they cannot realize, as when an idea of mixing five or six fonts in a single project proves overwhelming to produce upside down and backwards. Sometimes their chosen image doesn't quite fit, either with their lines of type or on the paper they chose. Sometimes the furniture doesn't quite line up, or skews the text when the quoins are tightened because they haven't distributed the pressure correctly across the frame. And sometimes we get all the way to pulling the press before they realize that a "q" was actually a "p," or that their "w" is upside down and looks like an "m." Through the printing process, in other words, students are confronted with the material realities that shaped textual production for hundreds of years. They don't just read or hear about them, they experience them. They begin, in small but real ways, to understand the practices that defined the craft of printing: techniques for making texts fit, for marrying text and image, for conveying expression with limited components. They begin to understand the text as modular and physical, as something that must be executed as well as produced. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/28-425.jpg" target="_blank"><img src="/img/ProgrammableType/28-425.jpg" alt="A finished project printing lines from the Broadway musical, <em>Hamilton</em>." width="100%" /></a>  
-*A finished project printing lines from the Broadway musical,* Hamilton*.*
+<figcaption>A finished project printing lines from the Broadway musical, <em>Hamilton</em>.</figcaption>
+</figure>
+
+-----
 
 One of the more evocative asides in [Benjamin Franklin's *Autobiography*](http://xroads.virginia.edu/~hyper/Franklin/one.html) might help us think about how the craft of printing differed, at least in the mind of one eighteenth-century printer-humanist, from the art of writing. Discussing his first printing master, Samuel Keimer, Franklin notes,
 
@@ -89,30 +119,69 @@ One of the more evocative asides in [Benjamin Franklin's *Autobiography*](http:/
 
 There are two things worth noting here. First, Franklin clearly separates at least two crafts related to textual production: composition and presswork. Elsewhere in his *Autobiography* Franklin brags of his own proficiency in both, but he regularly describes colleagues trained in one or the other, such as Keimer. More enticingly, however, in this passage Franklin bifurcates writing and composing. Though he acknowledges Keimer is making an elegy, he resists calling that making process *writing*, which requires for Franklin a manuscript copy, from which proof type is properly composed. For Franklin, printing and writing are closely related—hence his hesitation—but not identical.  
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/IMG_4522-1419.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_4522-1419.jpg" alt="A typographically complex advertisement from the Democratic Watchman of Bellefonte, PA (11 June 1880)." width="100%" /></a>  
-*A typographically complex advertisement from the* Democratic Watchman *of Bellefonte, PA (11 June 1880).*
+<figcaption>A typographically complex advertisement from the <em>Democratic Watchman</em> of Bellefonte, PA (11 June 1880).</figcaption>
+</figure>
+
+-----
 
 In calling printing a craft, I seek to highlight its blending of creativity and technical specificity. The essential tools of letterpress printing were drawn, for most compositors and editors, from a limited set (e.g. type, furniture, composing sticks, etc.). Master compositors and printers passed on best practices for approaching texts of various kinds. Many of the day-to-day operations of the print shop were iterative and industrialized. Within this frame, however, printers produced artifacts of remarkable inventiveness and even beauty. 
 
-<a href="/img/ProgrammableType/IMG_5342-1431.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_5342-1431.jpg" alt="A typographically complex advertisement from the Democratic Watchman of Bellefonte, PA (11 June 1880)." width="100%" /></a>  
-*A typographically complex advertisement from the* Democratic Watchman *of Bellefonte, PA (11 June 1880).*
+-----
+
+<figure>
+<a href="/img/ProgrammableType/IMG_5342-1431.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_5342-1431.jpg" alt="A typographically complex advertisement from the Democratic Watchman of Bellefonte, PA (11 June 1880)." width="100%" /></a> 
+<figcaption>A typographically complex advertisement from the <em>Democratic Watchman</em> of Bellefonte, PA (11 June 1880).</figcaption>
+</figure>
+
+-----
 
 We can see this inventiveness even in the most quotidian of printing environments, the nineteenth-century newspaper. Often compositors found the most leeway for creativity and play in typesetting advertisements, as in these examples. Note that "fine job printing" is advertised through a show of compositional talent. I'm particularly drawn to the large "CARPETS" drawn using smaller type (perhaps "primer merely"?), which resembles nothing so much as the ASCII art of the early internet. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/IMG_5332-468.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_5332-468.jpg" alt="The first reprinting of 'The Dude' that I found, in the St. Louis Globe-Democrat (13 July 1883)." width="100%" /></a>  
-*The first reprinting of 'The Dude' that I found, in the* St. Louis Globe-Democrat *(13 July 1883).*
+<figcaption>The first reprinting of "The Dude" that I found, in the <em>St. Louis Globe-Democrat</em> (13 July 1883).</figcaption>
+</figure>
+
+-----
 
 Occasionally, however, newspaper compositors turned their talents to other ends. Consider, for instance, "The Dude." I first found "The Dude" in a print edition of the *St. Louis Daily Globe-Democrat*, which I have in a small collection of teaching artifacts. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/BHDH.001.jpeg" target="_blank"><img src="/img/ProgrammableType/BHDH.001.jpeg" alt="Various reprints of The Dude." width="100%" /></a>
+<figcaption>A series of reprints of "The Dude."</figcaption>
+</figure>
+
+----
 
 For obvious reasons, I was taken with this pattern poem satirizing "a dude," a word that referred in the nineteenth century to [a city slicker and a dandy](http://www.oed.com.ezproxy.neu.edu/view/Entry/58230?isAdvanced=false&result=1&rskey=36OXE3&), and particular a city slicker who affected "cowboy" attire and slang. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/BHDH.002.jpeg" target="_blank"><img src="/img/ProgrammableType/BHDH.002.jpeg" alt="Various reprints of The Dude." width="100%" /></a>
+<figcaption>A series of reprints of "The Dude."</figcaption>
+</figure>
+
+----
 
 As "The Dude" circulated through nineteenth-century newspapers, it's general shape remained the same, but the precise shape of the dude varied based on the type available to particular compositors, and their particular interpretations of his shape. I particularly love [this Australian reprinting in the *Darling Downs Gazette*](http://trove.nla.gov.au/newspaper/article/170390418) (27 Oct. 1883), in which the poem's title and author are incorporated into the pattern, giving the dude an especially tall hat. The dude was eventually [killed in type, too](http://chroniclingamerica.loc.gov/lccn/sn85025620/1884-04-03/ed-1/seq-4/), his face somberly showing through a poetic death shroud. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/nla.news-page19629029-493.png" target="_blank"><img src="/img/ProgrammableType/nla.news-page19629029-493.png" alt="A reprinting of The Dude from the Australian Darling Downs Gazette." width="400" /></a>
+<figcaption>A reprint of "The Dude" from the Australian newspaper, the <em>Darling Downs Gazette</em>.</figcaption>
+</figure>
+
+-----
 
 I identify composition and printing as craft practices not to demean them—far from it—but to mark the specific modes of thought and labor they require. In particular, I highlight the formalism of printing. Translating a text from one's mind into a physical artifact requires a series of concrete decisions that freeze language into a specific form. Moreover, that form can be mistaken, failing to work as it should. Printing is a craft insofar as its primary work involves adapting methodological and aesthetic conventions to the needs of specific projects and, quite often, adapting the needs of specific projects to the affordances of the available printing technology and materials. Ultimately, printing requires us to create a particular model of the text: a simplification of it, perhaps, in service of wider communication.  
 
@@ -137,8 +206,14 @@ In another series of labs for my "Technologies of Text" class, students [learn t
 
 As with printing, students report a different intellectual engagement with programming than with reading and writing. There a spatial quality here, too, as programming is more procedural than writing—first this happens, then that happens, and hopefully at the end everything runs as you expect. To output something we might recognize as creative, such as a poetry bot, students have to consider the formal properties of both the poetry they wish to remix—e.g. what are its parts of speech? how many syllables are there per line?—and the formal properties of the code—e.g. what parts of speech can I retrieve using [the Wordnik API](http://developer.wordnik.com/)? how many characters can I output to Twitter? They must consider how the formal properties of poetry and programming will relate: e.g. will any verb retrieved from Wordnik fit this poem, or do I need to introduce additional constraints about tense, length, and so on?
 
-<a href="/img/ProgrammableType/ProgrammableType.003.jpeg" target="_blank"><img src="/img/ProgrammableType/ProgrammableType.003.jpeg" alt="Some of the Twitter bots created by Technologies of Text students." width="100%" /></a>  
-*Some of the Twitter bots created by Technologies of Text students.*
+-----
+
+<figure>
+<a href="/img/ProgrammableType/ProgrammableType.003.jpeg" target="_blank"><img src="/img/ProgrammableType/ProgrammableType.003.jpeg" alt="Some of the Twitter bots created by Technologies of Text students." width="100%" /></a> 
+<figcaption>Some of the Twitter bots created by Technologies of Text students.</figcaption>
+</figure>
+
+-----
 
 In adapting existing code to meet their creative or analytical needs, students engage with programming as a craft practice. The work within an existing infrastructure and adapt it in small ways to meet the particular needs of their projects. In other words, they engage with programming in ways quite consonant with most humanists—and, indeed, most scholars from non-CS fields—who are engaged with computation. We borrow, reorganize, and adapt; we build on existing practices. As Ramsay notes later in "DH and CS," "Programming...is a craft skill—a practical matter of getting digital devices to exhibit particular behaviors. This is not to imply that it’s a simple thing; anyone who has done it seriously knows that it is a ferociously complex thing. But then again, so is writing." Programming is increasingly a craft that can be adapted across many domains. Its components—the functions and loops we copy and arrange, are perhaps analogous to the type, leading, furniture and so forth that printers adapted for expressing writing across many domains.
 
@@ -158,38 +233,83 @@ The [Viral Texts Project](http://viraltexts.org) employs text mining techniques 
 
 Today I want to talk about some more recent experiments, which are very much *in progress*, which is to say I can talk about the questions we are asking more than giving any answers. In short, however, we are using the locations of identified reprints—which in the newspaper data is expressed through X,Y coordinates—to map reprints back onto the newspaper page. Our goal is to illuminate the workaday practices of compositors and editors in the newspaper printing office—to better understand how they put the puzzle pieces of the paper together, and how they thought, practically and spatially, about its aesthetics and hybrid genres. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/vt-data-long-579.png" target="_blank"><img src="/img/ProgrammableType/vt-data-long-579.png" alt="The mean location of reprinted texts across a sample of Viral Texts data, visualized on an unfolded newspaper sheet, as texts would have been set on the press." width="100%" /></a>  
-*The mean location of reprinted texts across a sample of Viral Texts data, visualized on an unfolded newspaper sheet, as texts would have been set on the press.*
+<figcaption>The mean location of reprinted texts across a sample of Viral Texts data, visualized on an unfolded newspaper sheet, as texts would have been set on the press.</figcaption>
+</figure>
+
+-----
 
 Where, for instance, did they put reprints? Most periodicals historians would tell you that reprinted content could mostly be found on pages 1-4, which made up the outer form of the typical four-page (or one double-sided sheet of paper, folded) paper, alongside other material left in standing type, such as mastheads and advertisements. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/ProgrammableType.004.jpeg" target="_blank"><img src="/img/ProgrammableType/ProgrammableType.004.jpeg" alt="The mean location of reprinted texts in the Pulaski Citizen compared to the Worthington Advance." width="100%" /></a>  
-*The mean location of reprinted texts in the* Pulaski Citizen *compared to the* Worthington Advance*.*
+<figcaption>The mean location of reprinted texts in the <em>Pulaski Citizen</em> compared to the <em>Worthington Advance</em>.</figcaption>
+</figure>
+
+-----
 
 Our early layout experiments, however, indicate that local practices varied widely, and some nineteenth-century newspapers, such as the *Worthington Advance*, printed more original content on page one than their typical contemporaries. The modern front page, of course, is defined by carrying the most pressing material. One question we might ask, then, is which papers moved toward a modern front page first, and how did the front page evolve across the nineteen-century?
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/Rplot-536.png" target="_blank"><img src="/img/ProgrammableType/Rplot-536.png" alt="The mean location of reprinted poems sampled from the Viral Texts data and classified through Jonathan Fitzgerald's genre detection work." width="100%" /></a>  
-*The mean location of reprinted poems sampled from the Viral Texts data and classified through Jonathan Fitzgerald's genre detection work.*
+<figcaption>The mean location of reprinted poems sampled from the Viral Texts data and classified through Jonathan Fitzgerald's genre detection work.</figcaption>
+</figure>
+
+-----
 
 If we combine these layout analyses with the work of Viral Texts RA Jonathan Fitzgerald, who has been [computationally classifying the genres in our corpus](http://jonathandfitzgerald.com/blog/2016/10/10/the-viral-vignette.html), we can also think spatially about particular genres. Where, for instance, did the typical nineteenth-century newspaper print poetry? And again, which newspapers varied from the conventions of the day?
 
-<a href="/img/ProgrammableType/1883_The Democratic advocate-474.png" target="_blank"><img src="/img/ProgrammableType/1883_The Democratic advocate-474.png" alt="The Dude printed with Types of Beauty in The Democratic Advocate (4 August 1883)" width="100%" /></a>  
-*"The Dude" printed with "Types of Beauty" in* The Democratic Advocate *(4 August 1883)*
+-----
+
+<figure>
+<a href="/img/ProgrammableType/1883_The Democratic advocate-474.png" target="_blank"><img src="/img/ProgrammableType/1883_The Democratic advocate-474.png" alt="The Dude printed with Types of Beauty in The Democratic Advocate (4 August 1883)" width="100%" /></a> 
+<figcaption>"The Dude" printed with "Types of Beauty" in <em>The Democratic Advocate</em> (4 August 1883)</figcaption>
+</figure>
+
+-----
 
 I want to close by returning to "The Dude" to think in a more speculative mode about the palimpsestic qualities of the digitized text. In [this issue of the *Democratic Advocate* (4 August 1883)](http://chroniclingamerica.loc.gov/lccn/sn85038292/1883-08-04/ed-1/seq-4/), "The Dude" appears below another pattern poem, "Types of Beauty." In many ways, these poems seem uniquely resistant to computational analysis. Transcribed through OCR software, these poems will inevitably lose their defining feature, their shapes. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/Screenshot1.png" target="_blank"><img src="/img/ProgrammableType/Screenshot1.png" alt="The Dude printed and Types of Beauty alongside the OCR transcriptions of each." width="100%" /></a>  
-*"The Dude" and "Types of Beauty" alongside the OCR transcriptions of each.*
+<figcaption>"The Dude" and "Types of Beauty" alongside the OCR transcriptions of each.</figcaption>
+</figure>
+
+-----
 
 If we look at the OCR for these poems, however, we see (I believe) a shadow of the original poems. "The Dude" is still there, though perhaps in profile. 
 
+-----
+
+<figure>
 <a href="/img/ProgrammableType/Screenshot2.png" target="_blank"><img src="/img/ProgrammableType/Screenshot2.png" alt="A tracing of the outline of the OCR for several editions of the Dude." width="100%" /></a>  
-*A tracing of the outline of the OCR for several editions of "The Dude."* 
+<figcaption>A tracing of the outline of the OCR for several editions of "The Dude."</figcaption>
+</figure>
+
+-----
 
 If we look at the OCR for a series of "The Dude" reprints, that profile seems quite consistent. Perhaps, in other words, the careful typesetting of nineteenth century compositors resonates through our imperfect digitizations. With the right program—a program yet to be crafted— we might be able to trace these patterns, too.
+
+-----
   
+<figure>
 <a href="/img/ProgrammableType/IMG_5429-583.JPG" target="_blank"><img src="/img/ProgrammableType/IMG_5429-583.JPG" alt="Typeset R code in mirror image, so that the type can be read." width="100%" /></a>  
-*The typeset R code from the beginning of this presentation, but with the image flipped horizontally so that the type can be read.*
+<figcaption>The typeset R code from the beginning of this presentation, but with the image flipped horizontally so that the type can be read.</figcaption>
+</figure>
+
+-----
+
+
+## Notes
 
 [^Hayles]: N. Katherine Hayles, *Writing Machines*, Cambridge: MIT Press (2002), 19, 15.
 
