@@ -36,12 +36,12 @@ Let's begin thinking about the craft of letterpress using a quote from a well-kn
 
 While preparing for this talk, I asked the book historians in my Twitter network to send me their favorite examples of writers consciously engaging with the materiality of print. I received so many suggestions I cannot list them here, but I compiled [a Storify of the conversation](https://storify.com/ryancordell/writers-and-print-materiality) for those interested in the many examples my colleagues provided, and even this long twitter thread barely scratches the surface of writerly engagements with print culture. We might think first of those who were in fact printers, such as Ben Franklin, William Blake, Walt Whitman, or William Morris. Franklin suffused his writing with metaphors drawn from the technologies and business of the hand press, as does Whitman in his poem, "A Font of Type":
 
-> This latent mine—these unlaunch'd voices—passionate powers,
-> Wrath, argument, or praise, or comic leer, or prayer devout,
-> (Not nonpareil, brevier, bourgeois, long primer merely,)[^type]
-> These ocean waves arousable to fury and to death,
-> Or sooth'd to ease and sheeny sun and sleep,
-> Within the pallid slivers slumbering.
+> This latent mine—these unlaunch'd voices—passionate powers,  
+> Wrath, argument, or praise, or comic leer, or prayer devout,  
+> (Not nonpareil, brevier, bourgeois, long primer merely,)[^type]  
+> These ocean waves arousable to fury and to death,  
+> Or sooth'd to ease and sheeny sun and sleep,  
+> Within the pallid slivers slumbering.  
 > 
 > Walt Whitman, "A Font of Type," *Leaves of Grass* (1891-92), via [The Walt Whitman Archive](http://whitmanarchive.org/published/LG/1891/poems/312) 
 
