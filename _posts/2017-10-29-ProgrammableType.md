@@ -11,7 +11,7 @@ permalink: /research/programmabletype/
 -----
 
 <figure>
-<p><a href="/img/ProgrammableType/IMG_5430.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_5430.jpg" alt="A line of R code set in moveable type." width="100%" /></a>
+<a href="/img/ProgrammableType/IMG_5430.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_5430.jpg" alt="A line of R code set in moveable type." width="100%" /></a>
 <figcaption>A line of—valid, I think—R code set in moveable type.</figcaption>
 </figure>
 
