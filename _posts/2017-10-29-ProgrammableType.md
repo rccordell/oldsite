@@ -12,7 +12,7 @@ permalink: /research/programmabletype/
 
 <figure>
 <a href="/img/ProgrammableType/IMG_5430.jpg" target="_blank"><img src="/img/ProgrammableType/IMG_5430.jpg" alt="A line of R code set in moveable type." width="100%" /></a>
-<figcaption>A line of—valid, I think—R code set in moveable type.</figcaption>
+<figcaption>*A line of—valid, I think—R code set in moveable type.*</figcaption>
 </figure>
 
 This is not a talk about coding as it pertains to definitions of the digital humanities, or which seeks to graft some notion of programming to the boundaries of that discipline. To be direct: I don't think one must code in order to call oneself a digital humanist. And now to be fair: I see little evidence that many scholars in the field equate the field with coding, though that pairing has become a pervasive truism *about* the digital humanities. I would insist that [a single, three-minute position paper](http://stephenramsay.net/text/2011/01/08/whos-in-and-whos-out/) cannot serve as metonym for any field, DH included (or even as a metonym for [a particular scholar's full range of views](http://stephenramsay.net/text/2011/01/11/on-building/). There are many ways to engage with the digital humanities; coding is one of them.
