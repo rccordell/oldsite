@@ -33,7 +33,7 @@ There are many options at various skill levels for humanists interested in netwo
 
 
 ## This Workshop: Gephi
-For this workshop, we will be using [Gephi](http://gephi.github.io/), one of the most widely-used tools for network analysis and visualization. You will need to [download and install](http://gephi.github.io/users/download/) the application before we can get started. If you find it runs slowly (or not at all) you might need to [update Java](https://java.com/en/download/) on your system.
+For this workshop, we will be using [Gephi](http://gephi.github.io/), one of the most widely-used tools for network analysis and visualization. You will need to [download and install](http://gephi.github.io/users/download/) the application before we can get started. If you find it runs slowly (or not at all) you might need to [update Java](https://java.com/en/download/) on your system. There are some troubleshooting instructions about Java [on Gephi's website](https://gephi.org/users/install/). 
 
 ## Workshop Data
 Sample data can be found in [this folder](https://www.dropbox.com/sh/vov4yx855zjcjz3/AAD_oCHSVStfEZVvNoJ-eLYKa?dl=0). You can [download them all as a zip file](https://www.dropbox.com/s/ju4zbmsi3bfb1n1/GephiWorkshopFiles.zip?dl=0) or download files separately as we need them. 
