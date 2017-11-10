@@ -12,6 +12,7 @@ categories:
   - Research
   - Viral Texts
 ---
+
 Below is the paper I will deliver at the [2017 Modern Language Association Convention in Philadelphia](https://www.mla.org/Convention/MLA-2017), as part of the panel [“#AllTheFeels: Sentimentalism Then and Now."](https://ryancordell.org/research/allthefeels/) I have not included the slides but have included links, embedded video, and images that should give blog readers a clear sense of what I'm talking about in each section of the talk.
 
 <iframe src="https://www.youtube.com/embed/tU5Rnd-HM6A" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
