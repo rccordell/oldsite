@@ -1,5 +1,5 @@
 ---
-title: &#8216;Q i-jtb the Raven&#8216;: Taking Dirty OCR Seriously
+title: '&#8216;Q i-jtb the Raven&#8216;: Taking Dirty OCR Seriously'
 date: 2017-11-11
 author: Ryan Cordell
 permalink: /research/qijtb-the-raven/
@@ -22,6 +22,6 @@ Given the workings of academic publishing, a number of articles have come out si
 
 Ryan Cordell, "'Q i-jtb the Raven': Taking Dirty OCR Seriously," *Book History* 20 (2017), 188-225, via [http://ryancordell.org/research/qijtb-the-raven/](http://ryancordell.org/research/qijtb-the-raven/).
 
-### 'Q i-jbt the Raven' in *Book History*
+### 'Q i-jtb the Raven' in *Book History*
 
 <object width="100%" height="1000px" data="documents/2017-BookHistory-QitjbTheRaven.pdf"></object>
