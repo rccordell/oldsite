@@ -5,7 +5,7 @@ date: 2016-01-07T13:30:53+00:00
 author: Ryan Cordell
 layout: post
 guid: http://ryancordell.org/?p=1400
-permalink: /research/qijtb-the-raven/
+permalink: /research/qijtb-the-raven-mla/
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";s:4:"1403";s:11:"_thumb_type";s:5:"thumb";}'
 image: /the-stuff/uploads/2016/01/pasted-image-200-150x150.png
