@@ -24,4 +24,4 @@ Ryan Cordell, "'Q i-jtb the Raven': Taking Dirty OCR Seriously," *Book History* 
 
 ### 'Q i-jtb the Raven' in *Book History*
 
-<object width="100%" height="1000px" data="documents/2017-BookHistory-QitjbTheRaven.pdf"></object>
+<object width="100%" height="1000px" data="/documents/2017-BookHistory-QitjbTheRaven.pdf"></object>
