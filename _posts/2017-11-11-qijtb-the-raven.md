@@ -1,5 +1,5 @@
 ---
-title: '&#8216;Q i-jtb the Raven&#8216;: Taking Dirty OCR Seriously'
+title: '&#8216;Q i-jtb the Raven&#8217;: Taking Dirty OCR Seriously'
 date: 2017-11-11
 author: Ryan Cordell
 permalink: /research/qijtb-the-raven/
