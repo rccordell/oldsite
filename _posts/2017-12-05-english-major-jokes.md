@@ -14,7 +14,8 @@ layout: post
 </figure>
 
 -----
-
+  
+<br />  
 Last December [I got into a spat with the cast of an NPR game show](https://twitter.com/petersagal/status/813487639609360384). That overstates the case. I was listening to "Wait, Wait Don't Tell Me" and rolled my eyes as host Peter Sagal made yet another joke about impoverished English majors. It's a frequent joke on the show and even more common in the wider world. At best such jabs are tired and at worst—and I believe this to be the case—they are doing slow, small, but steady and substantive harm to a field and to students. And so I tweeted my annoyance, tagging Sagal. He, a group of other cast members, and some listeners responded defensively: he was an English major himself and only indulging in self deprecation, a comedic staple. It was all in good fun. I should lighten up. 
 
 I probably *should* lighten up. It was just one joke and I don't believe Sagal, the cast members of "Wait, Wait Don't Tell Me," or the others who responded in our thread claiming their own past as English majors see the study of language and literature as a useless pursuit. One of these, Lin Brehmer, wrote "when English major jokes are unacceptable, all satire is dead. Signed an English Major," and assuring me "reading and writing will be essential skills as long as there is a civilization." As someone with a Ph.D. in the field, who has built a career career researching and teaching it, I certainly believe this point to be true. And yet.
