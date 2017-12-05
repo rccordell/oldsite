@@ -1,5 +1,5 @@
 ---
-title: 'Humorless Man Shakes Fist at English Major Jokes'
+title: 'Humorless Man Yells at English Major Jokes'
 date: 2017-12-05
 author: Ryan Cordell
 permalink: /personal/english-major-jokes/
@@ -7,7 +7,7 @@ layout: post
 ---
 
 <figure>
-<a href="/img/oldman.jpg" target="_blank"><img src="/img/oldman.jpg" alt="Old man yells at cloud newspaper headline from the Simpsons" width="100%" /></a>
+<a href="http://knowyourmeme.com/memes/old-man-yells-at-cloud" target="_blank"><img src="/img/oldman.jpg" alt="Old man yells at cloud newspaper headline from the Simpsons" width="100%" /></a>
 <figcaption>A self portrait of the author.</figcaption>
 </figure>
 
