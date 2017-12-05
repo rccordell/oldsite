@@ -6,10 +6,14 @@ permalink: /personal/english-major-jokes/
 layout: post
 ---
 
+-----
+
 <figure>
 <a href="http://knowyourmeme.com/memes/old-man-yells-at-cloud" target="_blank"><img src="/img/oldman.jpg" alt="Old man yells at cloud newspaper headline from the Simpsons" width="100%" /></a>
 <figcaption>A self portrait of the author.</figcaption>
 </figure>
+
+-----
 
 Last December [I got into a spat with the cast of an NPR game show](https://twitter.com/petersagal/status/813487639609360384). That overstates the case. I was listening to "Wait, Wait Don't Tell Me" and rolled my eyes as host Peter Sagal made yet another joke about impoverished English majors. It's a frequent joke on the show and even more common in the wider world. At best such jabs are tired and at worst—and I believe this to be the case—they are doing slow, small, but steady and substantive harm to a field and to students. And so I tweeted my annoyance, tagging Sagal. He, a group of other cast members, and some listeners responded defensively: he was an English major himself and only indulging in self deprecation, a comedic staple. It was all in good fun. I should lighten up. 
 
