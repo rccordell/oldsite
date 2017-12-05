@@ -7,7 +7,7 @@ layout: post
 ---
 
 <figure>
-<a href="/img/ProgrammableType/oldman.jpg" target="_blank"><img src="/img/ProgrammableType/oldman.jpg" alt="Old man yells at cloud newspaper headline from the Simpsons" width="100%" /></a>
+<a href="/img/oldman.jpg" target="_blank"><img src="/img/oldman.jpg" alt="Old man yells at cloud newspaper headline from the Simpsons" width="100%" /></a>
 <figcaption>A self portrait of the author.</figcaption>
 </figure>
 
