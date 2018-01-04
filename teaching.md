@@ -14,7 +14,7 @@ I teach both graduate and undergraduate courses at Northeastern University, most
 
 ## Undergraduate Courses
 
++ Technologies of Text: [Spring 2018](http://s18tot.ryancordell.org), [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/)
 + Reading and Writing in the Digital Age: [Fall 2017](http://f17rwda.ryancordell.org)
-+ Technologies of Text: [Spring 2017](http://s17tot.ryancordell.org), [Fall 2014](http://f14tot.ryancordell.org/)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
 + Bostonography: Exploring the City Through Texts, Maps, and Networks (with Benjamin Schmidt): [Fall 2016](http://bostonography.benschmidt.org/)
