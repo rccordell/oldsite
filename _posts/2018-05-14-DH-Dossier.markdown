@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "A DH Dossier"
-date: "2018-04-19 14:49"
+date: "2018-05-14"
 author: "Ryan Cordell"
 permalink: "/personal/dh-dossier"
 ---
