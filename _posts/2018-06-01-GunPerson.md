@@ -6,7 +6,7 @@ permalink: /personal/a-gun-person/
 layout: post
 ---
 
-While getting ready one recent morning, I saw my 6-year-old son—we'll call him little J—walking awkwardly around the house. He was shuffling sideways, with his knees bent and his hands in small fists in front of his face. I recognized the pose from J's karate classes, though they usually don't try to walk while at the ready.
+While getting ready this morning, I saw my 6-year-old son—we'll call him little J—walking awkwardly around the house. He was shuffling sideways, with his knees bent and his hands in small fists in front of his face. I recognized the pose from J's karate classes, though they usually don't try to walk while at the ready.
 
 "What *in the world* are you doing?" I asked jokingly.
 
