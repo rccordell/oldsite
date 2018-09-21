@@ -4,7 +4,7 @@ title: "My Teaching"
 permalink: /teaching/
 ---
 
-I teach both graduate and undergraduate courses at Northeastern University, mostly about digital humanities, the history of the book, and American literature. 
+I teach both graduate and undergraduate courses at Northeastern University, mostly about digital humanities, the history of the book, and American literature. I outline the ideals I strive to meet in my classrooms in my [statement of my teaching philosophy](https://ryancordell.org/statements#teaching). I also discuss many ideas about digital humanities pedagogy in the article "How Not to Teaching Digital Humanities," published in [*Debates in the Digital Humanities 2016*](http://dhdebates.gc.cuny.edu/debates/text/87). 
 
 ## Graduate Courses
 
