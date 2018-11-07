@@ -18,8 +18,9 @@ I'm hoping to keep things flexible today in response to audience questions, need
 2. Each find [a Jekyll GitHub repository](https://github.com/topics/jekyll-theme?o=desc&s=stars) to use for today's workshop. My undergraduates have gravitated toward the [Moon theme](https://github.com/TaylanTatli/Moon) this semester, and I'll use this one for my demos today.
 3. Clone your chosen repository into your GitHub account and if at all possible to your desktop.
 4. Learn how to edit the `_config.yml` file to begin customizing a Jekyll site.
-5. Edit at least one page and learn about the Jekyll header.
-6. Learn how to create a new blog post and edit at least one sample post.
+5.  
+6. Edit at least one page and learn about the Jekyll header.
+7. Learn how to create a new blog post and edit at least one sample post.
 
 # Jekyll/GitHub Pages Resources
 
