@@ -8,11 +8,18 @@ layout: post
 
 # Workshop Description
 
-Recently “flat HTML” website platforms have been getting lots of buzz: they load quickly, don’t have the overhead of database-driven platforms like WordPress, and are more aligned with the ideals of “minimal computing.” Once a flat HTML system is set up it’s remarkably easy to use, but that initial setup can be more complicated than an out-of-the-box solution like WordPress. This two- hour workshop will help you get started building a free, fast-loading professional website using a combination of [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/), one of the most popular flat HTML platforms. This workshop is led by Professor Ryan Cordell.
+Recently “flat HTML” website platforms have been getting lots of buzz: they load quickly, don’t have the overhead of database-driven platforms like WordPress, and are more aligned with the ideals of “minimal computing.” Once a flat HTML system is set up it’s remarkably easy to use, but that initial setup can be more complicated than an out-of-the-box solution like WordPress. This two- hour workshop will help you get started building a free, fast-loading professional website using a combination of [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/), one of the most popular flat HTML platforms. 
 
-This workshop will follow the “Introduction to GitHub” offered by NULab Coordinator Cara Marta Messina on November 7, 10 am -12 pm in 422 Snell Library. Participants are welcome to attend either or both events.
+# Quick Overview
 
-Please bring a laptop, if you are able!
+I'm hoping to keep things flexible today in response to audience questions, needs, or requests, but in general I expect us to:
+
+1. Discuss the basic structure of a Jekyll website.
+2. Each find [a Jekyll GitHub repository](https://github.com/topics/jekyll-theme?o=desc&s=stars) to use for today's workshop. My undergraduates have gravitated toward the [Moon theme](https://github.com/TaylanTatli/Moon) this semester, and I'll use this one for my demos today.
+3. Clone your chosen repository into your GitHub account and if at all possible to your desktop.
+4. Learn how to edit the `_config.yml` file to begin customizing a Jekyll site.
+5. Edit at least one page and learn about the Jekyll header.
+6. Learn how to create a new blog post and edit at least one sample post.
 
 # Jekyll/GitHub Pages Resources
 
@@ -41,8 +48,6 @@ As with any medium, of course, there are also *limitations* to writing in Markdo
 1. You have less granular control over the appearance of your text than you would in a full featured word processor. In order to ensure the flexibility and durability of Markdown, its grammar is relatively constrained. While you can indicate text should be `bold` or formatted in a `numbered list` using Markdown, for instance, you could indicate that one paragraph's font should be 2 points larger than another. 
 2. You typically have to convert Markdown files into another format before publication. This is not *quite* true on the web, where some frameworks like GitHub Pages can understand Markdown (as expresses in a Jekyll website) directly, but usually the production stage for a Markdown document involves converting you `md` file into another format and converting its structural encoding into actual stylistic representation.
 
-For our class, writing in Markdown will help you reflect on the relationship of your texts' structure to the media of their presentation. If you follow the Github Pages option for your website, you will edit your pages and write your posts in Markdown using [Prose.io][10] or one of the desktop applications listed below.
-
 ## Markdown References
 
 Below I will describe the most common Markdown syntax, but for additional reference you can consult:
@@ -50,7 +55,7 @@ Below I will describe the most common Markdown syntax, but for additional refere
 + The [Markdown Wikipedia page](https://en.wikipedia.org/wiki/Markdown), which includes a very handy chart of the syntax.
 + John Gruber's [introduction to Markdown](https://daringfireball.net/projects/markdown/syntax). Gruber developed the standard and knows what he's talking about!
 + This [interactive Markdown tutorial](http://www.markdowntutorial.com/), which will teach you the syntax in a few minutes.
-+ You can also download [the Markdown version of this page]() if you'd like to compare what you see in your browser with the marked-up text that created it.
++ You can also download [the Markdown version of this page](https://github.com/rccordell/rccordell.github.io/blob/master/_posts/2018-11-08-Jekyll-GitHubPages-workshop.md) if you'd like to compare what you see in your browser with the marked-up text that created it (click the `Raw` button to see the Markdown without GitHub's styling).
 
 In short, in Markdown your text will not include any visible stylistic variations such as italics or bold text; Markdown is a *plain text* format. However, many Markdown Editors will be able to preview the way your documents will look like when they're styled.
 
