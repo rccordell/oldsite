@@ -10,7 +10,7 @@ layout: post
 
 Recently “flat HTML” website platforms have been getting lots of buzz: they load quickly, don’t have the overhead of database-driven platforms like WordPress, and are more aligned with the ideals of “minimal computing.” Once a flat HTML system is set up it’s remarkably easy to use, but that initial setup can be more complicated than an out-of-the-box solution like WordPress. This two- hour workshop will help you get started building a free, fast-loading professional website using a combination of [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/), one of the most popular flat HTML platforms. 
 
-# Quick Overview
+# Workshop Overview
 
 I'm hoping to keep things flexible today in response to audience questions, needs, or requests, but in general I expect us to:
 
@@ -18,11 +18,20 @@ I'm hoping to keep things flexible today in response to audience questions, need
 2. Each find [a Jekyll GitHub repository](https://github.com/topics/jekyll-theme?o=desc&s=stars) to use for today's workshop. My undergraduates have gravitated toward the [Moon theme](https://github.com/TaylanTatli/Moon) this semester, and I'll use this one for my demos today.
 3. Clone your chosen repository into your GitHub account and if at all possible to your desktop.
 4. Learn how to edit the `_config.yml` file to begin customizing a Jekyll site.
-5.  
+5. Overview the structure of a Jekyll site.  
 6. Edit at least one page and learn about the Jekyll header.
 7. Learn how to create a new blog post and edit at least one sample post.
+8. Discuss possibilities for customizing a Jekyll site.
+
 
 # Jekyll/GitHub Pages Resources
+
+## Why Build a Jekyll website?
+
+Ran out of time; we can discuss this in the workshop.
+
+
+## Helpful Jekyll/GitHub Pages Links and Tutorials
 
 1. We will largely follow Barry Clark's tutorial, [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/), though some details have changed since 2014. 
 2. You can peruse the list of [supported Jekyll themes for GitHub Pages](https://pages.github.com/themes/), though most of these do not include the framework for blogging. A theme that supports blogging should include a folder titled `_posts`. 
