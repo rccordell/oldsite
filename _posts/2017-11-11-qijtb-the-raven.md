@@ -12,7 +12,7 @@ I'm very pleased that an article expanding on my previously-posted conference pr
 
 > You have the following nonexclusive rights...to include the Article in your own personal or departmental institutional database or on-line site...
 
-—I am able to make the article available here. The *Book History* version thickens the core argument of the original talk and substantially expands its critical bibliography of the [November 28, 1849 *Lewisburg Chronicle, and the West Branch Farmer*](http://ryancordell.org/research/qijtb-the-raven/chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/) and its investigations into the long history behind *Chronicling America*.
+—I am able to make the article available here. The *Book History* version thickens the core argument of the original talk and substantially expands its critical bibliography of the [November 28, 1849 *Lewisburg Chronicle, and the West Branch Farmer*](http://chroniclingamerica.loc.gov/lccn/sn85055199/1849-11-28/ed-1/seq-1/) and its investigations into the long history behind *Chronicling America*.
 
 ### Related Work
 
