@@ -29,12 +29,12 @@ github:
 # List of links in the navigation bar 
 navbar-links:
   About: "about"
-  Teaching: "teaching"
-  Statements: "statements"
   CV: "http://cv.ryancordell.org"
-  Tweet: "https://twitter.com/ryancordell"
+  Teaching: "teaching"
+  Huskiana Press: "https://cssh.northeastern.edu/huskiana/"
   Viral Texts: "http://viraltexts.org"
   OcEx: "http://oceanicexchanges.org"
+  Tweet: "https://twitter.com/ryancordell"
 
 # Gems
 gems:
