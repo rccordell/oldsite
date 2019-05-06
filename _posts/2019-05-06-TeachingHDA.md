@@ -6,6 +6,8 @@ permalink: /research/teachingHDA/
 layout: post
 ---
 
+*The talk below was delivered on 2 May 2019 as part of Gale's [Digital Humanities Day](https://www.gale.com/intl/primary-sources/digital-humanities-at-the-british-library) at the British Library. An open-access volume of the day's talks is supposed to appear in future; these are my unedited speaking notes, which are likely to be expanded and honed as the volume works through the editorial process.* 
+
 ## Introduction: Humanities Data
 
 Lorraine Daston and Peter Galison's book [*Objectivity*](https://mitpress.mit.edu/books/objectivity) attempts to trace the emergence of objectivity as a concept, ideal, and moral framework for scientists during the nineteenth century. The book focuses primarily on shifting ideas about scientific images during the period. In the eighteenth and early nineteenth centuries, Daston and Galison argue, the scientific ideal was "truth-to-nature," in which particular specimens are primarily useful for the ways in which they reflect and help construct an ideal type: not this leaf, specifically, but this type of leaf. Under this regime scientific illustrations did not attempt to reconstruct individual, imperfect specimens, but instead to generalize from specimens and portray an ideal type.
