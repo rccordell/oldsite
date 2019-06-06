@@ -349,7 +349,8 @@ James 5:12 but above all things, my brethren, swear not, neither by heaven, neit
 
 Perhaps my single favorite experiment I tried today substitutes "it'd be great if you" for the phrase "thou shalt," turning lots of Biblical oratory into the middle manage from *Office Space*. Enjoy! If you make any of your own let me know about them.
 
-<iframe src="https://giphy.com/embed/PER8oVobtMcus" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/internet-military-explain-PER8oVobtMcus">via GIPHY</a>
+<iframe src="https://giphy.com/embed/PER8oVobtMcus" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 
 ```
 Genesis 2:17 but of the tree of the knowledge of good and evil, it'd be great if you could not eat of it: for in the day that thou eatest thereof it'd be great if you could surely die.
