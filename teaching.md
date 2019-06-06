@@ -19,3 +19,7 @@ I teach both graduate and undergraduate courses at Northeastern University, most
 + Reading and Writing in the Digital Age: [Fall 2018](https://f18rwda.ryancordell.org/), [Fall 2017](http://f17rwda.ryancordell.org)
 + History of Books (with Erika Boeckeler): [Fall 2016](http://historyofbooks.org)
 + Bostonography: Exploring the City Through Texts, Maps, and Networks (with Benjamin Schmidt): [Fall 2016](http://bostonography.benschmidt.org/)
+
+## Workshops and Institutes
+
++ Introduction to Humanities Data Analysis and Visualization in R: [Summer 2019](https://github.com/rccordell/DHSI-HDA)

@@ -1,15 +1,9 @@
 ---
-title: "Friends, Family, and Academia: Pick Two"
-date: 2018-03-20
+title: "?"
+date: 2019-04-01
 author: Ryan Cordell
-permalink: /personal/pick-two/
+permalink: /research/?/
 layout: post
 ---
 
-I'm in the midst of my tenure year, which has led me to be more reflective and introspective than I imagined it would. Facing a tenure decision squarely and up close, I've found myself dwelling on big, possibly intractable questions about location, permanence, work, and fulfillment. I don't think my position or introspections are unique. If anything, as a white man working in academia my own experiences are likely more commonplace than they should be. 
-
-In a class on the economics of print production in the hand-press period, I was introduced to this triangle, which I have since learned is a common image in business circles:
-
-[![Quality-Price-Time Triangle](https://www.stakeholdermap.com/project-management/project-triangle.jpg "Quality-Price-Time Triangle")](https://www.stakeholdermap.com/project-management/project-triangle.jpg)
-
-Quality, cost, and time: *pick two*. In the context of print, the lesson was essentially this. A customer could have a job printed quickly and cheaply, but to the detriment of quality; or a customer could have a job printed well and quickly, but at great expense. 
+For the past few weeks, the digital humanities and anti-digital humanities corners of academia have been debating Nan Z. Da's *Critical Inquiry* article ["The Computational Case against Computational Literary Studies"](https://doi.org/10.1086/702594) and its *Chronicle of Higher Education* companion, ["The Digital Humanities Debacle"](https://www.chronicle.com/article/The-Digital-Humanities-Debacle/245986). As [I tweeted](https://twitter.com/ryancordell/status/1106192285887328257) early in this discussion, I am overall glad to see this contribution to the field Da calls "computational literary studies." I wrote then that Da's piece "should become an important touchstone for scholars in the field and its critics," because it "engages substantively with the data" and the specific set of statistical methods it questions. It does so without making computational text analysis a metonym for the entire set of methods grouped under digital humanities, as is common in less nuanced broadsides. In some ways the specificity I appreciated about the original article was undermined by whoever titled the *Chronicle* companion—and I recognize that may well not have been Da—and reiterated the metonymy that collapses the entire field into [the black hole of Franco Moretti](https://ryancordell.org/research/dh/on-ignoring-encoding/). 
