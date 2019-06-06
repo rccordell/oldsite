@@ -10,6 +10,8 @@ In my post/talk ["Teaching Humanities Data Analysis"](https://ryancordell.org/re
 
 This morning I came across a Facebook post by [Lee Skallerup Bessette](https://readywriting.org/) linking to Daniel Mallory Ortberg's hilarious ["Bible Verses Where “Behold” Has Been Replaced With “Look, Buddy”](http://the-toast.net/2016/06/06/bible-verses-where-behold-has-been-replaced-with-look-buddy/), which gave me an idea for a fun, simple, day one exercise that will teach the very basics of filtering textual data and manipulating strings. Essentially, I wrote a short R function that accepts two strings—a phrase to search, and a phrase to replace it with—searches the King James Version of the Bible for all verses including the search phrase, and creates a news version of that verse using the replacement phrase. It works just like the `find and replace` functions in a program like Word, but with the slight advantage of only outputting the verses that include the replaced phrase. The pertinent code can be found in [this Gist on Github](https://gist.github.com/rccordell/ceb46023066b632a31d2c47d4b07369f). Please play around with it!
 
+<script src="https://gist.github.com/rccordell/ceb46023066b632a31d2c47d4b07369f.js"></script>
+
 To really come up with funny results, you have to be thoughtful about all of the contexts in which a given word or phrase are used, so that the substitution will be grammatically appropriate in each substitution. So, subbing "for real, dude," for "verily" works in nearly every instance:
 
 ```
