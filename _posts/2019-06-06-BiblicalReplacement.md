@@ -6,7 +6,7 @@ permalink: /teaching/biblicalreplacement/
 layout: post
 ---
 
-*Note: I've updated this file to produce nicer results with correct capitalization and without duplicate punctuation marks.*
+**UPDATE:** *I have been wanting to experiment with Shiny for awhile, so I used this silly experiment as an opportunity to teach myself the basics. There's now a barebones Shiny web app at <https://ryancordell.shinyapps.io/BiblicalFindNReplace/> you can use to perform your own Biblical Substitutions*
 
 In my post/talk ["Teaching Humanities Data Analysis"](https://ryancordell.org/research/teachingHDA/) I recommended that such instruction start with creativity, and cited as an example an exercise I do with students designing mad-libs style Twitter poetry bots. The question of teaching data analysis is very much on my mind as I prepare the code workbooks that will serve as lessons for the "Introduction to Humanities Data Analysis & Visualization in R" I will teach with [Gregory J. Palermo](https://palermog.github.io/) at the [Digital Humanities Summer Institute](http://dhsi.org/index.php) next week. 
 
