@@ -6,7 +6,7 @@ permalink: /personal/leaving-home/
 layout: post
 ---
 
-> There are only two ways you can go 
+> There are only two ways you can go  
 > Away from or back to your home
 >
 > [Darlingside, "Rodeo"](https://www.youtube.com/watch?v=ZEqiY1HkFeI)
