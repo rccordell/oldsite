@@ -19,7 +19,7 @@ This workshop was adapted from the sterling model created by [Élika Ortega](htt
 ## Required Software
 
 + A [Twitter](https://twitter.com) account for your bot
-+ [Tracery](http://tracery.io/). 
++ [Tracery](http://tracery.io/) 
 + A plain-text editor for drafting, revising, and—essentially—saving a copy of your bot code
 + [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/)
 + You may also choose use and adapt these [corpora from Darius Kazemi](https://github.com/dariusk/corpora/tree/master/data)
@@ -95,7 +95,7 @@ How is the code below different from what we used before? Copy and paste it into
 
 ``` 
 
-For our purposes today, I've written a basic k-pop editor in the style [activists have been using online](https://www.theverge.com/2020/6/3/21278950/k-pop-stans-social-media-flooding-hashtags-bluelivesmatter-maga). We can use this as a base point for understanding Tracery, and folks can edit from here: 
+For our purposes today, I've written a very basic k-pop protest bot in the style [activists have been using online](https://www.theverge.com/2020/6/3/21278950/k-pop-stans-social-media-flooding-hashtags-bluelivesmatter-maga). We can use this as a base point for learning Tracery, and folks can edit from here: 
 
 ```
 {
