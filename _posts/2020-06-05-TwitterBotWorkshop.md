@@ -159,7 +159,7 @@ As you get started, you might think "wow, there's a lot of typing involved here!
 
 We will walk through this together, but once you have your Tracery code working as you wish, we will need to get it running and posting to Twitter. You need to sign up for a [Twitter account](https://twitter.com) for your bot and make sure you're signed into that account, rather than any personal accounts you might use. We will then use [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) to get our bots posting regularly to their accounts. 
 
-*Note: Frequent bot maker and digital archeologist, Shawn Graham, recommends folks check out [Glitch](https://glitch.com/) for hosting Tracery bots. He wrote me, "It [Glitch] has some tracery templates for bots. Then you can set up a cron service to ping the glitch endpoint to run the bot and tweet." For those with some experience, Glitch looks to be able to sync directly with a bot's Github repo. I've not used Glitch myself, however, and so can't speak to it personally.*
+*Note: Frequent bot maker and digital archeologist, Shawn Graham, recommends folks check out [Glitch](https://glitch.com/) for hosting Tracery bots. He wrote me, "It [Glitch] has some tracery templates for bots. Then you can set up a cron service to ping the glitch endpoint to run the bot and tweet." For those with some experience, Glitch looks to be able to sync directly with a bot's Github repo. I've not used Glitch myself, however, and so can't speak to it personally. See [this Glitch repo](https://glitch.com/~tracery-twitter-bot) for some idea what this would look like.*
 
 ### Gmail Hacks
 
