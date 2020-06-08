@@ -53,7 +53,7 @@ In the current moment, building bots can offer a way to engage creatively, [prov
 
 ### Brief Tracery Introduction
 
-We will be writing our Twitterbots using [Tracery](http://tracery.io/) a tool created by [Kate Compton](http://www.galaxykate.com/) that uses JSON data to generate text. In brief, to create a bot using Tracery we create a JSON file, which consists of a series of attribute-value pairs, such as this:
+We will be writing our Twitterbots using [Tracery](http://tracery.io/), a tool created by [Kate Compton](http://www.galaxykate.com/) that uses JSON data to generate text. In brief, to create a bot using Tracery we create a JSON file, which consists of a series of attribute-value pairs, such as this:
 
 ```
 "name":["Ryan", "Evelyn", "Cadence", "Emerson", "Rorik", "Jonas", "Jude"]
