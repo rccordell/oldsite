@@ -100,19 +100,54 @@ For our purposes today, I've written a very basic k-pop protest bot in the style
 ```
 {
 "hashtag": [ "\\#bluelivesmatter","\\#alllivesmatter","\\#whitelivesmatter","\\#sendinthetroops"],
-"kpop": ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"200\" height=\"200\"><image width=\"200\" height=\"200\" xlink:href=\"#kpopURL#\" /></svg>}"],
+"kpop": ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1237\" height=\"619\"><image width=\"1237\" height=\"619\" xlink:href=\"#kpopURL#\" /></svg>}"],
 "kpopURL": [
 "https://tinyurl.com/y8q8jy7r",
 "https://tinyurl.com/yavj9bxg",
 "https://tinyurl.com/yan56qbf",
 "https://tinyurl.com/y78pape7",
 "https://tinyurl.com/ydb7qscv",
-"https://tinyurl.com/yb98krj2"],
+"https://tinyurl.com/yb98krj2"
+],
+"actURL": [
+"https://tinyurl.com/y8zv22ce"
+],
 "text": [ "Blue lives do not exist","Justice for George Floyd" ],
-"origin": ["#text# #hashtag# #hashtag# #kpop#"]
+"origin": ["#text# #hashtag# #hashtag# #kpop# #actURL#"]
 }
 
 ```
+
+### A Few Notes
+
+The bot above is very simple, and one problem you may run into pulling images from the web is that they may be sized in ways that don't easily align with the SVG code (I'll explain this in more detail during the workshop). You may end up with strange artifacts and glitches that you don't want. One way to control for this is to only use images with consistent sizes, and then set your SVG settings in the code to match those sizes. You could also create a folder in a service like Dropbox for your images, and then resize them to be consistent there. 
+
+If you want to do a bit more with images, [this tutorial is helpful](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/svg-tracery-image-bots.md). For instance, here's the same bot as above, but overlaying text, old-school meme style, on the images:
+
+```
+{
+"hashtag": [ "\\#bluelivesmatter","\\#alllivesmatter","\\#whitelivesmatter","\\#sendinthetroops"],
+"kpop": ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1237\" height=\"619\"><image width=\"1237\" height=\"619\" xlink:href=\"#kpopURL#\" />#meme#</svg>}"],
+"meme": ["<text x=\"600\" y=\"500\" font-size=\"60\" stroke=\"black\" stroke-width=\"1\" fill=\"white\" text-anchor=\"middle\" style=\"font-family: Impact\">#memetext#</text>"],
+"kpopURL": [
+"https://tinyurl.com/y8q8jy7r",
+"https://tinyurl.com/yavj9bxg",
+"https://tinyurl.com/yan56qbf",
+"https://tinyurl.com/y78pape7",
+"https://tinyurl.com/ydb7qscv",
+"https://tinyurl.com/yb98krj2"
+],
+"actURL": [
+"https://tinyurl.com/y8zv22ce"
+],
+"text": [ "Are you trying to distract us with","You might think", "So you're tweeting about" ],
+"memetext": [ "Blue lives do not exist","Justice for George Floyd", "Black Lives Matter" ],
+"origin": ["#text# #hashtag# BUT #kpop# #actURL#"]
+}
+
+```
+
+Again, image sizing can be tricky here, as the text placement is measured using x,y coordinates. Again, we can discuss this together.
 
 ### Extending Tracery
 
@@ -123,6 +158,8 @@ As you get started, you might think "wow, there's a lot of typing involved here!
 ## Posting with Cheap Bots, Done Quick
 
 We will walk through this together, but once you have your Tracery code working as you wish, we will need to get it running and posting to Twitter. You need to sign up for a [Twitter account](https://twitter.com) for your bot and make sure you're signed into that account, rather than any personal accounts you might use. We will then use [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) to get our bots posting regularly to their accounts. 
+
+*Note: Frequent bot maker and digital archeologist, Shawn Graham, recommends folks check out [Glitch](https://glitch.com/) for hosting Tracery bots. He wrote me, "It [Glitch] has some tracery templates for bots. Then you can set up a cron service to ping the glitch endpoint to run the bot and tweet." For those with some experience, Glitch looks to be able to sync directly with a bot's Github repo. I've not used Glitch myself, however, and so can't speak to it personally.*
 
 ### Gmail Hacks
 
