@@ -100,7 +100,7 @@ For our purposes today, I've written a very basic k-pop protest bot in the style
 ```
 {
 "hashtag": [ "\\#bluelivesmatter","\\#alllivesmatter","\\#whitelivesmatter","\\#sendinthetroops"],
-"kpop": ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1237\" height=\"619\"><image width=\"1237\" height=\"619\" xlink:href=\"#kpopURL#\" /></svg>}"],
+"kpop": ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"1237\" height=\"619\"><image width=\"1237\" height=\"619\" xlink:href=\"#kpopURL#\" />#meme#</svg>}"],
 "kpopURL": [
 "https://tinyurl.com/y8q8jy7r",
 "https://tinyurl.com/yavj9bxg",
@@ -110,10 +110,18 @@ For our purposes today, I've written a very basic k-pop protest bot in the style
 "https://tinyurl.com/yb98krj2"
 ],
 "actURL": [
-"https://tinyurl.com/y8zv22ce"
+"https://tinyurl.com/y8zv22ce",
+"https://tinyurl.com/y9s586dr",
+"https://tinyurl.com/yd8kp2fd",
+"https://tinyurl.com/y7ou7rkd",
+"https://tinyurl.com/y9dx55lb",
+"https://tinyurl.com/ybost7vu",
+"https://tinyurl.com/yd6nekkx"
 ],
-"text": [ "Blue lives do not exist","Justice for George Floyd" ],
-"origin": ["#text# #hashtag# #hashtag# #kpop# #actURL#"]
+"text": [ "Stop trying to distract people with #hashtag#!","Do you really believe #hashtag#?", "So you're tweeting about #hashtag#." ],
+"memetext": [ "Blue lives do not exist","Justice for George Floyd", "Black Lives Matter","Breonna Taylor: Say her name" ],
+"turntext": [ "Have you considered", "But what about", "Maybe instead"],
+"origin": ["#text# #turntext# #memetext# #kpop# #actURL#"]
 }
 
 ```
@@ -138,16 +146,23 @@ If you want to do a bit more with images, [this tutorial is helpful](https://git
 "https://tinyurl.com/yb98krj2"
 ],
 "actURL": [
-"https://tinyurl.com/y8zv22ce"
+"https://tinyurl.com/y8zv22ce",
+"https://tinyurl.com/y9s586dr",
+"https://tinyurl.com/yd8kp2fd",
+"https://tinyurl.com/y7ou7rkd",
+"https://tinyurl.com/y9dx55lb",
+"https://tinyurl.com/ybost7vu",
+"https://tinyurl.com/yd6nekkx"
 ],
-"text": [ "Are you trying to distract us with","You might think", "So you're tweeting about" ],
-"memetext": [ "Blue lives do not exist","Justice for George Floyd", "Black Lives Matter" ],
-"origin": ["#text# #hashtag# BUT #kpop# #actURL#"]
+"text": [ "Stop trying to distract us with #hashtag#","Do you really believe #hashtag#?", "So you're tweeting about #hashtag#" ],
+"memetext": [ "Blue lives do not exist","Justice for George Floyd", "Black Lives Matter","Breonna Taylor: Say her name" ],
+"turntext": [ "Have you considered", "But what about", "Maybe instead"],
+"origin": ["#text# #turntext# #kpop# #actURL#"]
 }
 
 ```
 
-Again, image sizing can be tricky here, as the text placement is measured using x,y coordinates. Again, we can discuss this together.
+Image sizing can be tricky here, too, as the text placement is measured using x,y coordinates. Again, we can discuss this together during the workshop.
 
 ### Extending Tracery
 
