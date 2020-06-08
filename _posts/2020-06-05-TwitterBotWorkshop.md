@@ -60,7 +60,9 @@ We will be writing our Twitterbots using [Tracery](http://tracery.io/) a tool cr
 
 ```
 
-In tracery, the example `name` is a `symbol`, and the list of names that follow it are values attached to that `symbol`. We will create symbols for each element of our poem that we wish to substitute. We will then use the reserved symbol `origin` to combine random values with existing text. I will illustrate a short Tracery "mad-libs" style substitution below, using the most famous line from Edgar Allan Poe's "The Raven." Here's the original line:
+In tracery, the example `name` is a `symbol`, and the list of names that follow it are values attached to that `symbol`. We will create symbols for each element of our tweets that we wish to substitute. We will then use the reserved symbol `origin` to combine random values with existing text. 
+
+I will illustrate a short Tracery "mad-libs" style substitution below, using the most famous line from Edgar Allan Poe's "The Raven." Here's the original line:
  
 > Quoth the Raven “Nevermore.”
 
