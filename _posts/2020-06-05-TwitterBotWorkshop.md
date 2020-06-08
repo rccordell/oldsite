@@ -95,12 +95,12 @@ How is the code below different from what we used before? Copy and paste it into
 
 ``` 
 
-For our purposes today, I've written a very basic k-pop protest bot in the style [activists have been using online](https://www.theverge.com/2020/6/3/21278950/k-pop-stans-social-media-flooding-hashtags-bluelivesmatter-maga). We can use this as a base point for learning Tracery, and folks can edit from here: 
+For our purposes today, I've written a very basic k-pop protest bot in the style [activists have been using online](https://www.theverge.com/2020/6/3/21278950/k-pop-stans-social-media-flooding-hashtags-bluelivesmatter-maga). We can use this as a base point for learning Tracery, and folks can edit from here. As you write your bot, consider both the conversations in which you wish to intervene (e.g. hashtags, etc. which your both should invoke) as well as [messages you might want your bot to promote](https://twitter.com/BerniceKing/status/1268900750354198534). 
 
 ```
 {
 "hashtag": [ "\\#bluelivesmatter","\\#alllivesmatter","\\#whitelivesmatter","\\#sendinthetroops"],
-"kpop": ["<br><img src='#kpopURL#' width='220'><br>"],
+"kpop": ["{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"200\" height=\"200\"><image width=\"200\" height=\"200\" xlink:href=\"#kpopURL#\" /></svg>}"],
 "kpopURL": [
 "https://tinyurl.com/y8q8jy7r",
 "https://tinyurl.com/yavj9bxg",
