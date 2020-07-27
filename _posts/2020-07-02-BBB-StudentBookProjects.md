@@ -2,7 +2,7 @@
 title: "Building a (Better) Book Student Project Demos"
 date: 2020-07-02
 author: Ryan Cordell
-permalink: /teach/bbb-student-book-demos/
+permalink: /teaching/bbb-student-book-demos/
 layout: post
 ---
 
