@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Curriculum Vitae"
+permalink: /cv/
+---
+
 \begin{center}
 
 \textbf{Ryan Cordell}\\
