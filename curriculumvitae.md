@@ -1,16 +1,12 @@
 ---
 layout: page
 title: "Curriculum Vitae"
-permalink: /cv-alt/
+permalink: /curriculumvitae/
 ---
 
-\begin{center}
-
-\textbf{Ryan Cordell}\\
-r.cordell@northeastern.edu • \url{https://ryancordell.org/} • 508.918.0125 \\
-Nightingale Hall 415 | Northeastern University | Boston, MA 02115 \\
-Full academic CV available at \url{https://cv.ryancordell.org/} \\ 
-\end{center}
+**Ryan Cordell**  
+[r.cordell@northeastern.edu](mailto:r.cordell@northeastern.edu) • [https://ryancordell.org](https://ryancordell.org) • 508.918.0125  
+Nightingale Hall 415 | Northeastern University | Boston, MA 02115  
 
 # Academic Positions
 
