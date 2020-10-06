@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Curriculum Vitae"
-permalink: /cv/
+permalink: /cv-alt/
 ---
 
 \begin{center}
