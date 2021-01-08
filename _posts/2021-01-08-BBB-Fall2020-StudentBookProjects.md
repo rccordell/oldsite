@@ -1,5 +1,5 @@
 ---
-title: "Building a (Better) Book Student Project Demos"
+title: "Building a (Better) Book Student Project Demos - Fall 2020"
 date: 2021-01-08
 author: Ryan Cordell
 permalink: /teaching/f20bbb-student-book-demos/
