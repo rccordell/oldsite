@@ -30,7 +30,7 @@ I loved the playfulness, grounded in research, evidenced by Emma's project.
 
 ## Corrine
 
-Corrine was unable to share a presentation, but in some ways that might be better, because it will allow you to explore [the _Groundhog Day_-style murder mystery she wrote in Twine](/documents/Corrine-BBB-Fall2020-BookProject.html) without too much prompting. You may need to consult some [images from the accompanying physical journal](/img/Corrine-BBB-Fall2020-JournalImages/) Corrine made as you play/read. 
+Corrine was unable to share a presentation, but in some ways that might be better, because it will allow you to explore [the _Groundhog Day_-style murder mystery she wrote in Twine](/documents/Corrine-BBB-Fall2020-BookProject.html) without too much prompting. You may need to consult some [images from the accompanying physical journal](https://github.com/rccordell/rccordell.github.io/tree/master/img/Corrine-BBB-Fall2020-JournalImages) Corrine made as you play/read. 
 
 
 ## Conclusions
