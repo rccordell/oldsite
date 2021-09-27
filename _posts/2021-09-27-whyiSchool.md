@@ -1,6 +1,6 @@
 ---
 title: "Why the iSchool?"
-date: 2021-09-24
+date: 2021-09-27
 author: Ryan Cordell
 permalink: /research/why-iSchool/
 layout: post
