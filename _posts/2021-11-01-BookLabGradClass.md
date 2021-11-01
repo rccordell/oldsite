@@ -10,7 +10,7 @@ This spring I will offering an experiential book history-meets-DH graduate semin
 
 I really wanted to convey the experiential aspects of the course in its (30 character) catalog title, and when searching around couldn't invent anything better than Matthew Kirschenbaum's [Book Lab](https://hcommons.org/deposits/objects/hc:22598/datastreams/CONTENT/content), which was itself an inspiration when planning all past and present versions of this class. I reached out to Matt, and he graciously allowed me to use the same title, so we will be the "Book Lab: Midwest Chapter" this spring.
 
-Here's the full course description—I can't wait!
+Here's the full course description, and [here's the link to the class in Course Explorer](https://courses.illinois.edu/search/schedule/2022/spring/IS/583?sess=)—I can't wait!
 
 > "BookLab: Print to Programming" offers an applied history of new media from the hand-press period to the present. Our approach will draw on scholarship in book history, bibliography, information science, media studies, and digital humanities, an intersection described by N. Katherine Hayles and Jessica Pressman as "comparative textual media." We will take this comparative, interdisciplinary approach first to better understand machines of reading (from the printed book to computer code) as material, historical, and cultural objects. We will examine how practices of reading, writing, and publishing have interacted—thematically and materially—with contemporaneous technological innovations over the past 250 years. This cross-historical examination will open new modes of materially-engaged critique for our technological present. 
 > 
