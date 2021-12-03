@@ -8,6 +8,12 @@ I teach both graduate and undergraduate courses at Northeastern University, most
 
 ## Graduate Courses
 
+### University of Illinois Urbana-Champaign
+
++ Book Lab—Print to Programming: [Spring 2022](https://s22bl.ryancordell.org/)
+
+### Northeastern University
+
 + Introduction to Digital Humanities: [Fall 2020](https://f20idh.ryancordell.org)
 + Reading Machines—Technology and the Book: [Spring 2019](https://s19rm.ryancordell.org/)
 + Humanities Data Analysis: [Spring 2017](https://web.archive.org/web/20181206062051/http://s17hda.ryancordell.org/)
@@ -15,6 +21,8 @@ I teach both graduate and undergraduate courses at Northeastern University, most
 + Text, Maps, Networks—Digital Methods for Literary Study: Fall 2014
 
 ## Undergraduate Courses
+
+#### Northeastern University
 
 + Reading and Writing in the Digital Age: Spring 2021, [Fall 2018](https://f18rwda.ryancordell.org/), [Fall 2017](http://f17rwda.ryancordell.org)
 + Building a (Better) Book (honors seminar): [Fall 2020](https://f20bbb.ryancordell.org), Summer 2020, [Fall 2019](https://f19bbb.ryancordell.org/)
