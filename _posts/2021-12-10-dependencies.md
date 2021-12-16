@@ -1,5 +1,5 @@
 ---
-title: "Dependencies as Media History Framework for Information Science"
+title: "Dependencies as a Framework for Media History in Information Science"
 date: 2021-11-01
 author: Ryan Cordell
 permalink: /teaching/dependencies/
