@@ -18,4 +18,6 @@ Here's the full course description, and [here's the link to the class in Course 
 > 
 > Through our discussions we will develop greater capacities to critically read machines, analyzing the political, cultural, and social forces that shape—and are shaped by—textual technologies. We will raise urgent questions around privacy, algorithmic bias, intellectual property, information overload, and textual authority, asking how a rich new media history might inform our technological present and contribute to a richer construction of the digital humanities and information sciences fields.
 
+**Update (2021-12-10)**: There's now a syllabus for [BookLab: Print to Programming](https://s22bl.ryancordell.org/) available!
+
 
